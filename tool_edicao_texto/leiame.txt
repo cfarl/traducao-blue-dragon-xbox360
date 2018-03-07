@@ -1,0 +1,5 @@
+- Coloque os arquivos .u16 na pasta 'arquivos-extracao' 
+
+- O script 'extrair_txt_arquivo_u16' gera um arquivo txt com os textos de cada arquivo u16 na pasta
+
+- O script 'gerar_novo_arquivo_u16' gera um arquivo u16 com os textos que estão nos arquivos txt
