@@ -1,0 +1,69 @@
+float,start,1,,,
+float,alpha,255,,,
+float,NoTorippoFlg,1,,,
+
+d2anime,start,0,cmp_str,:d2anime\camp\cmp_str_xx.u16,1
+d2anime,start,0,str,dia_str_xx.u16,1
+
+string,Num,199,#ｱｲﾃﾑID,,
+string,Name,Dガボの葉,#ｱｲﾃﾑ名,,
+string,Msg,Dまめ#<まめ/豆>ちしきまめちしきまめちしきまめちし一行は二十七文字#<まめ/豆>#<まめ/豆>ちしきまめちしきまめちしきまめちし二行で五十四文字まめ#<まめ/豆>ちしきまめちしきまめちしきまめちし一行は二十七文字まめちし#<まめ/豆>ちしきまめちしきまめちしき三行で八十一文字まめちしきま#<まめ/豆>ちしきまめちしき五行で百三十五文字まめ,,,
+
+string,ItemEff,D#<かんじ/漢字>で十七文字字以上入ると良いですかね文字が,,,#こうか
+string,CateName,D漢字で七文字,,,#しゅるい
+string,Location,D漢字で九文字字字,,,#ばしょ
+string,Target,D漢字四,,,#たいしょう
+string,Area,D三文,,,#はんい
+
+
+#pos,,x,y,w,h,pri,,,,,,,,,,,,
+#pos,ItmPos,198,147,256,256,0,,,,,,,,,,,,
+pos,ItmPos,384,134,512,512,0,,,,,,,,,,,,
+pos,WinPos,202,142,870,257,3,,,,,,,,,,,,
+
+
+##基本情報,,,,,,,,,,,,,,,,,,
+#type,frame start,frame interval,x,y,font w,font h,pri,alpha,red,green,blue,message,type,,,,,
+message,1,0,110,47,40,40,0,255,255,255,255,Num,highway,#ｱｲﾃﾑID,,,,
+message,1,0,250,45,38,48,0,255,255,255,255,Name,,#ｱｲﾃﾑ名,,,,
+message,start,0,880,66,21,27,1.5,255,255,255,255,str.DIA_S0005,,#項目,アイテムずかん,,,
+message,NoTorippoFlg,0,90,414,16,18,1.5,255,165,153,99,str.DIA_S0007,,#項目,まめちしき,,,
+message,NoTorippoFlg,0,150,422,32,36,1.5,255,255,255,255,Msg,meiryo,left,,5,TRUE,TRUE
+
+##ﾍｯﾀﾞﾌｯﾀﾞの細い線,,,,,,,,,,,,
+#type,frame start,frame interval,x,y,w,h,pri,alpha,red,green,blue,
+frame,1,0,0,95,1280,2,4,128,255,255,255,#上段
+frame,NoTorippoFlg,0,0,412,1280,2,4,128,255,255,255,#下段
+frame,1,0,864,0,1,94,4,128,255,255,255,#上段区切り線
+
+##ページ数,,,,,,,,,,,,
+d2anime,NoTorippoFlg,0,page,:d2anime\L_page.csv,1,,,,,,,
+
+
+##ｱｲﾃﾑ詳細,,,,,,,,,,,,
+#ﾍﾞｰｽｳｲﾝﾄﾞｳ,,,,,,,,,,,,
+#type,frame start,frame interval,x,y,w,h,pri,window type,alpha,red,green,blue
+window,NoTorippoFlg,0,WinPos.x,WinPos.y,WinPos.w,WinPos.h,WinPos.pri,NOFRAME01,alpha-127,0,0,0
+
+#細い線,,,,,,,,,,,,
+#type,frame start,frame interval,x,y,w,h,pri,alpha,red,green,blue,,,,,,
+frame,NoTorippoFlg,frameinterval,WinPos.x+2,WinPos.y+65,866,1,2,alpha-180,255,255,255,,,,,,
+frame,NoTorippoFlg,frameinterval,WinPos.x+2,WinPos.y+129,866,1,2,alpha-180,255,255,255,,,,,,
+frame,NoTorippoFlg,frameinterval,WinPos.x+2,WinPos.y+194,866,1,2,alpha-180,255,255,255,,,,,,
+frame,NoTorippoFlg,frameinterval,WinPos.x+435,WinPos.y+194,1,56,2,alpha-180,255,255,255,,,,,,
+
+#項目,,,,,,,,,,,,,,,,,
+#type,frame start,frame interval,x,y,font w,font h,pri,alpha,red,green,blue,message,type,,,,
+message,NoTorippoFlg,0,WinPos.x+4,WinPos.y+1,13,15,-1,alpha,165,153,99,str.DIA_S0030,,#こうか,,,
+message,NoTorippoFlg,0,WinPos.x+4,WinPos.y+66,13,15,-1,alpha,165,153,99,str.DIA_S0031,,#しゅるい,,,
+message,NoTorippoFlg,0,WinPos.x+4,WinPos.y+131,13,15,-1,alpha,165,153,99,str.DIA_S0032,,#ばしょ,,,
+message,NoTorippoFlg,0,WinPos.x+4,WinPos.y+196,13,15,-1,alpha,165,153,99,str.DIA_S0033,,#たいしょう,,,
+message,NoTorippoFlg,0,WinPos.x+440,WinPos.y+196,13,15,-1,alpha,165,153,99,str.DIA_S0034,,#はんい,,,
+
+#内容,,,,,,,,,,,,,,,,,
+#type,frame start,frame interval,x,y,font w,font h,pri,alpha,red,green,blue,message,type,,,,RUBY
+message,NoTorippoFlg,0,WinPos.x+70,WinPos.y+14,26,30,-1,alpha,255,255,255,ItemEff,meiryo,left,0,0,TRUE,,#こうか
+message,NoTorippoFlg,0,WinPos.x+70,WinPos.y+79,26,30,-1,alpha,255,255,255,CateName,meiryo,left,0,0,TRUE,,#しゅるい
+message,NoTorippoFlg,0,WinPos.x+70,WinPos.y+143,26,30,-1,alpha,255,255,255,Location,meiryo,left,0,0,TRUE,,#ばしょ
+message,NoTorippoFlg,0,WinPos.x+70,WinPos.y+206,26,30,-1,alpha,255,255,255,Target,meiryo,left,0,0,TRUE,,#たいしょう
+message,NoTorippoFlg,0,WinPos.x+510,WinPos.y+206,26,30,-1,alpha,255,255,255,Area,meiryo,left,0,0,TRUE,,#はんい
