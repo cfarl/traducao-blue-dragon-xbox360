@@ -1,0 +1,21 @@
+!ê Road to Jibral | Coast Road !í
+This way leads to the Coast Road. Jibral Castle is in the opposite direction.
+Event. Shu and his group discuss whether to head towards Talta instead of Jibral Castle.
+"Event. Shu and his group join up with the caravan, and head towards Talta at night."
+Event. You depart for Jibral with the caravan. 
+There's a mini-game to protect the caravan as you proceed along the road to Jibral.
+Event. You join up with Zola and King Jibral and take the road to Jibral.
+You must protect the caravan on the way to Jibral. Would you like further explanation? #Y
+Yes
+No
+The health meter for the two wagons is displayed at the upper left of the screen. 
+This meter represents the condition of both wagons together. 
+Monsters will attack the wagons.
+"When the wagons are attacked by monsters, the health meter will go down. "
+"When the meter reaches zero, the game is over. "
+You must defeat the monsters in order to keep the meter from reaching zero. 
+Your goal is to guard the caravan until it arrives at Jibral. Good luck.
+Do you want to hear the instructions again? 
+Yes
+No
+We should be safe from this point on.
