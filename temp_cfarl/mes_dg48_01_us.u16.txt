@@ -1,31 +1,31 @@
-Leave the Ancient Factory? #Y
-Ride the conveyor belt? #Y
-You didn't find anything.
+Deixar a Antiga Fábrica? #Y
+Andar na esteira? #Y
+Você não encontrou nada.
 Whoa!
-(sigh)
-I already told you... It's gonna take more than raw power.
-"Aw, come on, guys. Besides, I think we could take a breather here. "
-What? Let's just bust through!
-Even mighty warriors need their rest. 
-That's right. 
-"Aw, man..."
-Whoa! That's really long! 
-"If we climb this, I'm betting we'll come out on the surface."
-Then let's get goin'! 
-Okay!
-Ugh! Isn't this where that tough robot is?
-"Yeah, it is, but maybe we could use that Red Device to neutralize it?"
-Neutralize? You can do that?
-Probably... at least in theory.
-"I don't really get it, but I'll try anything once!"
-Maro too!
-It worked!
-Wow! Jiro was right!
-"Yeah, well, you know..."
-There's a Gnashing Imp Trap guarding it.
-There's a Double Lance guarding it.
-It's already unlocked.
-You can't climb down. The bottom of the ladder is broken off.
-It looks like an emergency launch button for a mechat.
-There's no response. It seems to be completely blocked.
-A burst of cold air blasted out. Everyone's HP went down a little.
+(suspiro)
+Eu já disse a você... Vai ser preciso mais que energia bruta.
+"Aw, vamos lá, pessoal. Além disso, acho que podemos descansar um pouco. "
+O quê? Vamos então atravessar!
+Até mesmo poderosos guerreiros precisam de descanso. 
+Está certo. 
+"Aw, não..."
+Whoa! Isso é muito extenso! 
+"Se subirmos aqui, aposto que vamos sair na superfície."
+Então vamos! 
+Ok!
+Ugh! Esse não é o lugar onde aquele robô forte está?
+"Sim, é aqui, mas talvez possamos usar aquele Dispositvo Vermelho para neutralizá-lo?"
+Neutralizar? Você pode fazer isso?
+Provavelmente... pelo menos na teoria.
+"Eu não entendi bem, mas vou tentar de tudo pelo menos uma vez!"
+Maro também!
+Funcionou!
+Wow! Jiro estava certo!
+"Sim, bem, vocês sabem..."
+Há um Gnashing Imp Trap guardando ele.
+Há um Double Lance guardando ele.
+Já está destrancado.
+Você não pode descer. A parte inferior da escada está quebrada.
+Parece um botão para lançamento de emergência para um mechat.
+Não há resposta. Parece estar completamente bloqueado.
+Uma rajada ar gelado os atingiu. O HP de todo mundo caiu um pouco.

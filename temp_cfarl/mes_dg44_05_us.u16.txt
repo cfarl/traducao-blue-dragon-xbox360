@@ -1,19 +1,19 @@
-I'm coming!
-Event. They move to the Ancient Hospital in the Drill Machine.
-There are several complex devices standing in a row.
-It has a steering wheel. It looks like you can use it to maneuver.
-A needle is moving continuously.
-This is the door switch.
-This is the elevator switch.
-"You tried to turn the wheel, but it was stuck and wouldn't budge."
-"A lot of things are being shown, but neither Shu nor anyone can figure it out."
-You turned the wheel! But nothing happened.
-Go to the 1st Floor? #Y
-It's already unlocked.
-An indicator needle is moving.
-Ancient letters are being displayed on the screen.
-You feel the power of magic.
-This is the elevator to the first floor.
-The Drill Machine looks broken.
-This machine looks broken.
-Nothing is displayed on the screen. It seems broken.
+Estou indo!
+Evento. Eles se movem para o Antigo Hospital na Máquina Perfuradora.
+Há diversos dispositivos complexos  posicionados em uma linha.
+Ele tem uma roda de condução. Parece que você pode usá-la para manobrar.
+Uma agulha está se movendo continuamente.
+Esse é o  interruptor da porta.
+Esse é o interruptor do elevador.
+"Você tentou girar a roda, mas ela estava travada e  não se moveu."
+"Um monte de coisas está sendo mostrada, mas nem Shu nem ninguém pode imaginar."
+Você girou a roda! Mas nada aconteceu.
+Ir para o 1° andar? #Y
+Já está destrancado.
+Uma agulha indicadora está se movendo.
+Letras antigas estão sendo mostradas na tela.
+Você sente o poder da magia.
+Esse é o elevador para o primeiro andar.
+A Máquina Perfuradora parece quebrada.
+Essa máquina parece quebrada.
+Nada é mostrado na tela. Ele parece quebrado.
