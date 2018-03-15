@@ -1,21 +1,21 @@
 ! Road to Jibral | Coast Road !’
-This way leads to the Coast Road. Jibral Castle is in the opposite direction.
-Event. Shu and his group discuss whether to head towards Talta instead of Jibral Castle.
-"Event. Shu and his group join up with the caravan, and head towards Talta at night."
-Event. You depart for Jibral with the caravan. 
-There's a mini-game to protect the caravan as you proceed along the road to Jibral.
-Event. You join up with Zola and King Jibral and take the road to Jibral.
-You must protect the caravan on the way to Jibral. Would you like further explanation? #Y
-Yes
-No
-The health meter for the two wagons is displayed at the upper left of the screen. 
-This meter represents the condition of both wagons together. 
-Monsters will attack the wagons.
-"When the wagons are attacked by monsters, the health meter will go down. "
-"When the meter reaches zero, the game is over. "
-You must defeat the monsters in order to keep the meter from reaching zero. 
-Your goal is to guard the caravan until it arrives at Jibral. Good luck.
-Do you want to hear the instructions again? 
-Yes
-No
-We should be safe from this point on.
+Ele caminho leva à Estrada da Costa. O Castelo Jibral está na direção oposta.
+Evento. Shu e seu grupo discutem de devem ir para Talta ao invés do Castelo Jibral.
+"Evento. Shu e seu se juntara à caravana, e seguem em direção a Talta à noite."
+Evento. Você parte para Jibral com a caravana. 
+Há um mini-game para proteger a caravan enquanto você segue ao longo da estrada para Jibral.
+Evento. Você se juntou a Zola e o Rei Jibral e seguiu na estrada para Jibral.
+Você deve proteger a caravana no caminho para Jibral. Gostaria de mais explicações? #Y
+Sim
+Não
+A barra de saúde para as duas carroças é mostrado no canto superior esquerdo da tela. 
+Essa barra representa a condição das duas carroças juntas. 
+Monstros irão atacar as carroças.
+"Quando as carroças são atacadas por monstros, a barra de saúde vai cair. "
+"Quando a barra alcançar zero, o jogo acabou. "
+Você deve vencer os monstros para evitar que a barra alcance zero. 
+Sua missão é proteger a caravana até que ela chegue em Jibral. Boa sorte.
+Você quer ouvir as instruções outra vez? 
+Sim
+Não
+Devemos estar a salvo a partir daqui.
