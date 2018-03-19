@@ -1,2 +1,3 @@
-java -cp tool bluedragon.ExtrairTexto arquivos-extracao ",,EV" ",,M"
+java -cp tool bluedragon.ExtrairTexto arquivos-extracao 
+pause
 
