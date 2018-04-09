@@ -1,309 +1,309 @@
- (Purchased)( (Purchased), (Adquirido))
- purchased.( purchased., adquiridas.)
-"""[W950]Cannot enhance mechat#Rwithout mechat enhancement parts."""("""[W950]Cannot enhance mechat#Rwithout mechat enhancement parts.""","""[W950]No se puede mejorar el mecóptero#Rsin piezas de mejora del mecóptero.""")
-"""[W950]Enhancement is complete.#RThis mechat can't be enhanced any more."""("""[W950]Enhancement is complete.#RThis mechat can't be enhanced any more.""","""[W950]Mejora completa.#REste mecóptero no puede mejorarse más.""")
-(((,()
-)(),))
----(---,---)
-???(???,¿¿¿???)
-Accessories(Accessories,Accesorios)
-Adventure Record(Adventure Record,Registro de aventuras)
-Agility(Agility,Agilidad)
-Aim(Aim,Apuntar)
-All(All,Todo)
-Ally(Ally,Aliado)
-Ancient Medals(Ancient Medals,Medallas antiguas)
-Ancient medals into gold.(Ancient medals into gold.,Medallas antiguas en oro.)
-Area(Area,Área)
-Arm(Arm,Brazo)
-Assassin(Assassin,Asesino)
-Attack(Attack,Ataque)
-Attribute(Attribute,Atributo)
-Audio Hints(Audio Hints,Consejos sonoros)
-Audio(Audio,Audio)
-Auto-Set(Auto-Set,Ajuste automático)
-Available Skills(Available Skills,Habilidad disponible)
-Available Skills(Available Skills,Habilidades disponibles)
-Back(Back,Retroceder)
-Barrier Magic(Barrier Magic,Magia de barrera)
-Barriers Removed(Barriers Removed,Barreras desactivadas)
-Basic Skill Slot(Basic Skill Slot,Hueco para habilidad básica)
-Battle Hints(Battle Hints,Consejos de batalla)
-Battle Record(Battle Record,Registro de batallas)
-Battle(Battle,Batalla)
-Belt(Belt,Cinturón)
-Best at charged physical attacks.(Best at charged physical attacks.,Óptimo con ataques físicos cargados.)
-Black Magic(Black Magic,Mago negro)
-Bracelet(Bracelet,Pulsera)
-Buy(Buy,Comprar)
-Buy?(Buy?,¿Comprar?)
-Camera(Camera,Cámara)
-Can't Sell(Can't Sell,No puedes)
-Cancel(Cancel,Cancelar)
-Cast Spell(Cast Spell,Lanzar conjuro)
-Casting Time(Casting Time,Tiempo de conjuración)
-Center(Center,Centro)
-Change Class(Change Class,Cambiar clase)
-Change Shadow class?(Change Shadow class?,¿Cambiar clase de sombra?)
-Charge Effect(Charge Effect,Efecto de la carga)
-Charge Speed(Charge Speed,Velocidad de carga)
-Charge(Charge,Carga)
-Check/OK(Check/OK,Verificar/Aceptar)
-Chinese(Chinese,Chino)
-Circle(Circle,Círculo)
-Class(Class,Clase)
-Close(Close,Cerrar)
-Column(Column,Columna)
-Combo(Combo,Combinación)
-Controls (General)(Controls (General),Controles (general))
-Controls (Mechat Shooting)(Controls (Mechat Shooting),Controles (disparo mecóptero))
-Convert ancient medals into gold.(Convert ancient medals into gold.,Convertir medallas antiguas en oro.)
-Convert gold into ancient medals.(Convert gold into ancient medals.,Convertir oro en medallas antiguas.)
-Convert?(Convert?,¿Convertir?)
-Current Accessories(Current Accessories,Accesorios actuales)
-Current Skills(Current Skills,Habilidades actuales)
-Dash Attack(Dash Attack,Ataque carrera)
-Defense(Defense,Defensa)
-Disable(Disable,Desactivar)
-Do you want to select skills?(Do you want to select skills?,¿Quieres seleccionar habilidades?)
-Dragon learned a skill.(Dragon learned a skill.,El Dragón ha aprendido una habilidad.)
-EXP(EXP,EXP)
-Ear(Ear,Oreja)
-Earrings(Earrings,Pendientes)
-Effect(Effect,Efecto)
-Empty(Empty,Vacío)
-Enable(Enable,Activar)
-Encounter Type(Encounter Type,Tipo de encuentro)
-Encyclopedia(Encyclopedia,Enciclopedia)
-Enemy(Enemy,Enemigo)
-English(English,Inglés)
-Enhance Mechat(Enhance Mechat,Mejorar mecóptero)
-Enhance(Enhance,Mejorar)
-Enhance?(Enhance?,¿Mejorar?)
-Enhanced(Enhanced,Mejora aplicada)
-Enhancement(Enhancement,Mejora)
-Equip Skill(Equip Skill,Equipar habilidad)
-Equip(Equip,Equipar)
-Equipped Skills(Equipped Skills,Habilidades equipadas)
-Escapes(Escapes,Huídas)
-Evade(Evade,Evasión)
-Evasion(Evasion,Evasión)
-Fast(Fast,Rápido)
-Field Menu(Field Menu,Menú de exploración)
-Field Skill 1(Field Skill 1,Habilidad exploración 1)
-Field Skill 2(Field Skill 2,Habilidad exploración 2)
-Field and Battle(Field and Battle,Batalla y exploración)
-Field(Field,Exploración)
-Finger(Finger,Dedo)
-Fix(Fix,Rep.)
-Formation(Formation,Formación)
-French(French,Francés)
-G(G,O)
-Gems(Gems,Gemas)
-Generalist(Generalist,Factótum)
-German(German,Alemán)
-Gold into ancient medals.(Gold into ancient medals.,Oro en medallas antiguas.)
-Gold(Gold,Oro)
-Guardian(Guardian,Guardián)
-HP(HP,PS)
-Heal(Heal,Curación)
-Help(Help,Ayuda)
-Hit(Hit,Golpear)
-Information(Information,Información)
-Intelligence(Intelligence,Inteligencia)
-Invert(Invert,Invertir)
-Italian(Italian,Italiano)
-Item Record(Item Record,Registro de objetos)
-Item to Use(Item to Use,Objeto para utilizar)
-Items(Items,Objetos)
-Japanese(Japanese,Japonés)
-Jiro(Jiro,Yiro)
-Killer Bat learned a skill.(Killer Bat learned a skill.,El Vampiro ha aprendido una habilidad.)
-Kluke(Kluke,Kluke)
-Korean(Korean,Coreano)
-L(L,I)
-LV 1(LV 1,NV 1)
-LV 2(LV 2,NV 2)
-LV 3(LV 3,NV 3)
-LV 4(LV 4,NV 4)
-LV 5(LV 5,NV 5)
-LV 6(LV 6,NV 6)
-LV(LV,NV)
-Large(Large,Grande)
-Learned Skills(Learned Skills,Habilidades aprendidas)
-Leave Mechat Dock(Leave Mechat Dock,Abandonar muelle de mecóptero)
-Left(Left,Izda.)
-Level(Level,Nivel)
-Location(Location,Ubicación)
-Lowest HP(Lowest HP,PS mínimos)
-Luck(Luck,Suerte)
-M(M,M)
-MP Cost(MP Cost,Coste en PM)
-MP(MP,PM)
-Machine Gun(Machine Gun,Ametralladora)
-Magic Attack(Magic Attack,Ataque mágico)
-Magic Defense(Magic Defense,Defensa mágica)
-Magic Evasion(Magic Evasion,Evasión mágica)
-Magic Monster(Magic Monster,Monstruo mágico)
-Magic User who heals all of your ills.(Magic User who heals all of your ills.,Usuario de magia que cura todos los males.)
-Magic User who helps strengthen allies.(Magic User who helps strengthen allies.,Usuario de magia que ayuda a fortalecer a los aliados.)
-Magic User who hinders enemies.(Magic User who hinders enemies.,Usuario de magia que entorpece a los enemigos.)
-Magic User who specializes in attacks.(Magic User who specializes in attacks.,Usuario de magia especializado en ataque.)
-Main Menu(Main Menu,Menú principal)
-Marumaro(Marumaro,Marumaro)
-Master of physical attacks.(Master of physical attacks.,Maestro de los ataques físicos.)
-Master of tricky skills.(Master of tricky skills.,Maestro de las habilidades más difíciles.)
-Max Magic(Max Magic,Magia máxima)
-Max Physical(Max Physical,Físico máximo)
-Max(Max,Máximo)
-Mecha Robo(Mecha Robo,Mecanoide)
-Mechat Dock(Mechat Dock,Muelle de mecóptero)
-Medal Shop(Medal Shop,Tienda de medallas)
-Medals(Medals,Medallas)
-Minotaur learned a skill.(Minotaur learned a skill.,El Minotauro ha aprendido una habilidad.)
-Missile(Missile,Misil)
-Monk(Monk,Monje)
-Monster Fights(Monster Fights,Traiciones)
-Monster Record(Monster Record,Registro de monstruos)
-Monster(Monster,Monstruo)
-Moon Laser(Moon Laser,Láser lunar)
-Move(Move,Mover)
-Multi-Monster Encounters(Multi-Monster Encounters,Encuentros múltiples)
-Music(Music,Música)
-Neck(Neck,Cuello)
-Necklace(Necklace,Collar)
-Negotiation(Negotiation,Negociación)
-New Skill(New Skill,Nueva habilidad)
-Next(Next,Siguiente)
-No(No,No)
-Normal(Normal,Normal)
-Number Defeated(Number Defeated,Número de vencidos)
-OK(OK,Aceptar)
-Off(Off,Desactivado)
-On(On,Activado)
-One Heart(One Heart,Un corazón)
-Party(Party,Grp.)
-Phoenix learned a skill.(Phoenix learned a skill.,El Fénix ha aprendido una habilidad.)
-Pin(Pin,Broche)
-Point(Point,Puntos)
-Portuguese(Portuguese,Portugués)
-Power(Power,Poder)
-Purchased(Purchased,Adquirido)
-Quit Game(Quit Game,Abandonar partida)
-R(R,D)
-RK(RK,RG)
-Range(Range,Alcance)
-Rank(Rank,RG)
-Reliable defender.(Reliable defender.,Defensor fiable.)
-Reliable defender.(Reliable defender.,Defensor muy fiable.)
-Remove All(Remove All,Quitar todo)
-Remove(Remove,Quitar)
-Repair Kits(Repair Kits,Reparaciones)
-Reset Camera(Reset Camera,Reiniciar cámara)
-Resourceful ability user with extra skill and accessory slots.(Resourceful ability user with extra skill and accessory slots.,Aventurero lleno de recursos con huecos extra de habilidades y accesorios.)
-Restore Defaults(Restore Defaults,Restablecer predeterminado)
-Results(Results,Resultados)
-Right(Right,Dcha.)
-Ring(Ring,Anillo)
-Row(Row,Fila)
-Ruby Function (Japanese Only)(Ruby Function (Japanese Only),Función Rubí (Solo en japonés))
-SP(SP,PH)
-Saber-Tooth learned a skill.(Saber-Tooth learned a skill.,El Smilodón ha aprendido una habilidad.)
-Save(Save,Guardar)
-Screen Brightness(Screen Brightness,Brillo pantalla)
-Screen Position L/R(Screen Position L/R,Pantalla der./izq.)
-Screen Position Up/Down(Screen Position Up/Down,Pantalla arriba/abajo)
-Select 1 class.(Select 1 class.,Selecciona 1 clase.)
-Select 2 classes.(Select 2 classes.,Selecciona 2 clases.)
-Select 3 classes.(Select 3 classes.,Selecciona 3 clases.)
-Select 4 classes.(Select 4 classes.,Selecciona 4 clases.)
-Select 5 classes.(Select 5 classes.,Selecciona 5 clases.)
-Select 6 classes.(Select 6 classes.,Selecciona 6 clases.)
-Select 7 classes.(Select 7 classes.,Selecciona 7 clases.)
-Select 8 classes.(Select 8 classes.,Selecciona 8 clases.)
-Select a class. Your status will reflect the values of the selected class.(Select a class. Your status will reflect the values of the selected class.,Selecciona una clase. Tu estado reflejará los valores de la clase seleccionada.)
-Select(Select,Seleccionar)
-Sell(Sell,Vender)
-Sell?(Sell?,¿Vender?)
-Settings(Settings,Ajustes)
-Shadow Class(Shadow Class,Clase de sombra)
-Shadow(Shadow,Sombra)
-Shoes(Shoes,Zapatos)
-Shu(Shu,Shu)
-Single(Single,Único)
-Skill Slot(Skill Slot,Hueco para habilidad)
-Skill to Equip(Skill to Equip,Habilidad para equipar)
-Skill(Skill,Habilidad)
-Skills(Skills,Habilidades)
-Skip Events(Skip Events,Saltar eventos)
-Skip(Skip,Saltar)
-Slow(Slow,Lento)
-Small(Small,Pequeño)
-Sound Effects(Sound Effects,Efectos de sonido)
-Spanish(Spanish,Español)
-Special(Special,Especial)
-Spell Caster(Spell Caster,Conjurador)
-Spell Record(Spell Record,Registro de conjuros)
-Spell Shop(Spell Shop,Tienda de conjuros)
-Spell to Cast(Spell to Cast,Conjuro para lanzar)
-Spellbook(Spellbook,Libro de conjuros)
-Spells(Spells,Conjuros)
-Standard(Standard,Estándar)
-Status changes to match the selected class.(Status changes to match the selected class.,El estado cambia de acuerdo con la clase seleccionada.)
-Status(Status,Estado)
-Strength(Strength,Fuerza)
-Subtitles(Subtitles,Subtítulos)
-Support Magic(Support Magic,Mago de apoyo)
-Support(Support,Apoyo)
-Switch(Switch,Personaje)
-Switched skill.(Switched skill.,Habilidad cambiada.)
-Sword Master(Sword Master,Maestro de espada)
-Target First in Battle(Target First in Battle,Primer objetivo de batalla)
-Target(Target,Objetivo)
-Tension(Tension,Estrés)
-Text Display Speed(Text Display Speed,Velocidad texto)
-Text Size(Text Size,Tamaño texto)
-There are no spells or skills in %s.(There are no spells or skills in %s.,No hay conjuros ni habilidades en %s.)
-Total Assets(Total Assets,Total de propiedades)
-Total Encounters(Total Encounters,Total de encuentros)
-Total Time Played(Total Time Played,Tiempo total de juego)
-Total(Total,Total)
-Turn Left(Turn Left,Girar izda.)
-Turn Page(Turn Page,Pasar página)
-Turn Right(Turn Right,Girar dcha.)
-Type A(Type A,Tipo A)
-Type B(Type B,Tipo B)
-Type C(Type C,Tipo C)
-Type D(Type D,Tipo D)
-Type(Type,Tipo)
-Undead(Undead,No muerto)
-Unlock Class(Unlock Class,Desbloquear clase)
-Unlock the selected classes?(Unlock the selected classes?,¿Desbloquear las clases seleccionadas?)
-Until next level(Until next level,Hasta próximo nivel)
-Until next rank(Until next rank,Hasta próximo rango)
-Use Item(Use Item,Utilizar objeto)
-Use Magic(Use Magic,Utilizar magia)
-Valuables(Valuables,Objetos de valor)
-Value of Items(Value of Items,Valor de los objetos)
-Very Fast(Very Fast,Muy rápido)
-Vibration(Vibration,Vibración)
-View(View,Vista)
-Voice(Voice,Voz)
-Wagon(Wagon,Carro)
-Warp Devices Activated(Warp Devices Activated,Teleportadores activados)
-Warp(Warp,Teleportar)
-White Magic(White Magic,Mago blanco)
-Wins(Wins,Triunfos)
-Wisdom(Wisdom,Sabiduría)
-World Map(World Map,Mapa del mundo)
-X(X,X)
-Yes(Yes,Sí)
-You can unlock new classes for your Shadow!(You can unlock new classes for your Shadow!,¡Puedes desbloquear nuevas clases para tu sombra!)
-Zola(Zola,Zola)
-Zoom(Zoom,Zoom)
-?(?,?)
-?(?,?)
-?(?,?)
-?(?,?)
-???(???,???)
-????(????,????)
+ (Purchased)<<< (Purchased), (Adquirido)>>>
+ purchased.<<< purchased., adquiridas.>>>
+"""[W950]Cannot enhance mechat#Rwithout mechat enhancement parts."""<<<"""[W950]Cannot enhance mechat#Rwithout mechat enhancement parts.""","""[W950]No se puede mejorar el mecóptero#Rsin piezas de mejora del mecóptero.""">>>
+"""[W950]Enhancement is complete.#RThis mechat can't be enhanced any more."""<<<"""[W950]Enhancement is complete.#RThis mechat can't be enhanced any more.""","""[W950]Mejora completa.#REste mecóptero no puede mejorarse más.""">>>
+(<<<(,(>>>
+)<<<),)>>>
+---<<<---,--->>>
+???<<<???,¿¿¿???>>>
+Accessories<<<Accessories,Accesorios>>>
+Adventure Record<<<Adventure Record,Registro de aventuras>>>
+Agility<<<Agility,Agilidad>>>
+Aim<<<Aim,Apuntar>>>
+All<<<All,Todo>>>
+Ally<<<Ally,Aliado>>>
+Ancient Medals<<<Ancient Medals,Medallas antiguas>>>
+Ancient medals into gold.<<<Ancient medals into gold.,Medallas antiguas en oro.>>>
+Area<<<Area,Área>>>
+Arm<<<Arm,Brazo>>>
+Assassin<<<Assassin,Asesino>>>
+Attack<<<Attack,Ataque>>>
+Attribute<<<Attribute,Atributo>>>
+Audio Hints<<<Audio Hints,Consejos sonoros>>>
+Audio<<<Audio,Audio>>>
+Auto-Set<<<Auto-Set,Ajuste automático>>>
+Available Skills<<<Available Skills,Habilidad disponible>>>
+Available Skills<<<Available Skills,Habilidades disponibles>>>
+Back<<<Back,Retroceder>>>
+Barrier Magic<<<Barrier Magic,Magia de barrera>>>
+Barriers Removed<<<Barriers Removed,Barreras desactivadas>>>
+Basic Skill Slot<<<Basic Skill Slot,Hueco para habilidad básica>>>
+Battle Hints<<<Battle Hints,Consejos de batalla>>>
+Battle Record<<<Battle Record,Registro de batallas>>>
+Battle<<<Battle,Batalla>>>
+Belt<<<Belt,Cinturón>>>
+Best at charged physical attacks.<<<Best at charged physical attacks.,Óptimo con ataques físicos cargados.>>>
+Black Magic<<<Black Magic,Mago negro>>>
+Bracelet<<<Bracelet,Pulsera>>>
+Buy<<<Buy,Comprar>>>
+Buy?<<<Buy?,¿Comprar?>>>
+Camera<<<Camera,Cámara>>>
+Can't Sell<<<Can't Sell,No puedes>>>
+Cancel<<<Cancel,Cancelar>>>
+Cast Spell<<<Cast Spell,Lanzar conjuro>>>
+Casting Time<<<Casting Time,Tiempo de conjuración>>>
+Center<<<Center,Centro>>>
+Change Class<<<Change Class,Cambiar clase>>>
+Change Shadow class?<<<Change Shadow class?,¿Cambiar clase de sombra?>>>
+Charge Effect<<<Charge Effect,Efecto de la carga>>>
+Charge Speed<<<Charge Speed,Velocidad de carga>>>
+Charge<<<Charge,Carga>>>
+Check/OK<<<Check/OK,Verificar/Aceptar>>>
+Chinese<<<Chinese,Chino>>>
+Circle<<<Circle,Círculo>>>
+Class<<<Class,Clase>>>
+Close<<<Close,Cerrar>>>
+Column<<<Column,Columna>>>
+Combo<<<Combo,Combinación>>>
+Controls (General)<<<Controls (General),Controles (general)>>>
+Controls (Mechat Shooting)<<<Controls (Mechat Shooting),Controles (disparo mecóptero)>>>
+Convert ancient medals into gold.<<<Convert ancient medals into gold.,Convertir medallas antiguas en oro.>>>
+Convert gold into ancient medals.<<<Convert gold into ancient medals.,Convertir oro en medallas antiguas.>>>
+Convert?<<<Convert?,¿Convertir?>>>
+Current Accessories<<<Current Accessories,Accesorios actuales>>>
+Current Skills<<<Current Skills,Habilidades actuales>>>
+Dash Attack<<<Dash Attack,Ataque carrera>>>
+Defense<<<Defense,Defensa>>>
+Disable<<<Disable,Desactivar>>>
+Do you want to select skills?<<<Do you want to select skills?,¿Quieres seleccionar habilidades?>>>
+Dragon learned a skill.<<<Dragon learned a skill.,El Dragón ha aprendido una habilidad.>>>
+EXP<<<EXP,EXP>>>
+Ear<<<Ear,Oreja>>>
+Earrings<<<Earrings,Pendientes>>>
+Effect<<<Effect,Efecto>>>
+Empty<<<Empty,Vacío>>>
+Enable<<<Enable,Activar>>>
+Encounter Type<<<Encounter Type,Tipo de encuentro>>>
+Encyclopedia<<<Encyclopedia,Enciclopedia>>>
+Enemy<<<Enemy,Enemigo>>>
+English<<<English,Inglés>>>
+Enhance Mechat<<<Enhance Mechat,Mejorar mecóptero>>>
+Enhance<<<Enhance,Mejorar>>>
+Enhance?<<<Enhance?,¿Mejorar?>>>
+Enhanced<<<Enhanced,Mejora aplicada>>>
+Enhancement<<<Enhancement,Mejora>>>
+Equip Skill<<<Equip Skill,Equipar habilidad>>>
+Equip<<<Equip,Equipar>>>
+Equipped Skills<<<Equipped Skills,Habilidades equipadas>>>
+Escapes<<<Escapes,Huídas>>>
+Evade<<<Evade,Evasión>>>
+Evasion<<<Evasion,Evasión>>>
+Fast<<<Fast,Rápido>>>
+Field Menu<<<Field Menu,Menú de exploración>>>
+Field Skill 1<<<Field Skill 1,Habilidad exploración 1>>>
+Field Skill 2<<<Field Skill 2,Habilidad exploración 2>>>
+Field and Battle<<<Field and Battle,Batalla y exploración>>>
+Field<<<Field,Exploración>>>
+Finger<<<Finger,Dedo>>>
+Fix<<<Fix,Rep.>>>
+Formation<<<Formation,Formación>>>
+French<<<French,Francés>>>
+G<<<G,O>>>
+Gems<<<Gems,Gemas>>>
+Generalist<<<Generalist,Factótum>>>
+German<<<German,Alemán>>>
+Gold into ancient medals.<<<Gold into ancient medals.,Oro en medallas antiguas.>>>
+Gold<<<Gold,Oro>>>
+Guardian<<<Guardian,Guardián>>>
+HP<<<HP,PS>>>
+Heal<<<Heal,Curación>>>
+Help<<<Help,Ayuda>>>
+Hit<<<Hit,Golpear>>>
+Information<<<Information,Información>>>
+Intelligence<<<Intelligence,Inteligencia>>>
+Invert<<<Invert,Invertir>>>
+Italian<<<Italian,Italiano>>>
+Item Record<<<Item Record,Registro de objetos>>>
+Item to Use<<<Item to Use,Objeto para utilizar>>>
+Items<<<Items,Objetos>>>
+Japanese<<<Japanese,Japonés>>>
+Jiro<<<Jiro,Yiro>>>
+Killer Bat learned a skill.<<<Killer Bat learned a skill.,El Vampiro ha aprendido una habilidad.>>>
+Kluke<<<Kluke,Kluke>>>
+Korean<<<Korean,Coreano>>>
+L<<<L,I>>>
+LV 1<<<LV 1,NV 1>>>
+LV 2<<<LV 2,NV 2>>>
+LV 3<<<LV 3,NV 3>>>
+LV 4<<<LV 4,NV 4>>>
+LV 5<<<LV 5,NV 5>>>
+LV 6<<<LV 6,NV 6>>>
+LV<<<LV,NV>>>
+Large<<<Large,Grande>>>
+Learned Skills<<<Learned Skills,Habilidades aprendidas>>>
+Leave Mechat Dock<<<Leave Mechat Dock,Abandonar muelle de mecóptero>>>
+Left<<<Left,Izda.>>>
+Level<<<Level,Nivel>>>
+Location<<<Location,Ubicación>>>
+Lowest HP<<<Lowest HP,PS mínimos>>>
+Luck<<<Luck,Suerte>>>
+M<<<M,M>>>
+MP Cost<<<MP Cost,Coste en PM>>>
+MP<<<MP,PM>>>
+Machine Gun<<<Machine Gun,Ametralladora>>>
+Magic Attack<<<Magic Attack,Ataque mágico>>>
+Magic Defense<<<Magic Defense,Defensa mágica>>>
+Magic Evasion<<<Magic Evasion,Evasión mágica>>>
+Magic Monster<<<Magic Monster,Monstruo mágico>>>
+Magic User who heals all of your ills.<<<Magic User who heals all of your ills.,Usuario de magia que cura todos los males.>>>
+Magic User who helps strengthen allies.<<<Magic User who helps strengthen allies.,Usuario de magia que ayuda a fortalecer a los aliados.>>>
+Magic User who hinders enemies.<<<Magic User who hinders enemies.,Usuario de magia que entorpece a los enemigos.>>>
+Magic User who specializes in attacks.<<<Magic User who specializes in attacks.,Usuario de magia especializado en ataque.>>>
+Main Menu<<<Main Menu,Menú principal>>>
+Marumaro<<<Marumaro,Marumaro>>>
+Master of physical attacks.<<<Master of physical attacks.,Maestro de los ataques físicos.>>>
+Master of tricky skills.<<<Master of tricky skills.,Maestro de las habilidades más difíciles.>>>
+Max Magic<<<Max Magic,Magia máxima>>>
+Max Physical<<<Max Physical,Físico máximo>>>
+Max<<<Max,Máximo>>>
+Mecha Robo<<<Mecha Robo,Mecanoide>>>
+Mechat Dock<<<Mechat Dock,Muelle de mecóptero>>>
+Medal Shop<<<Medal Shop,Tienda de medallas>>>
+Medals<<<Medals,Medallas>>>
+Minotaur learned a skill.<<<Minotaur learned a skill.,El Minotauro ha aprendido una habilidad.>>>
+Missile<<<Missile,Misil>>>
+Monk<<<Monk,Monje>>>
+Monster Fights<<<Monster Fights,Traiciones>>>
+Monster Record<<<Monster Record,Registro de monstruos>>>
+Monster<<<Monster,Monstruo>>>
+Moon Laser<<<Moon Laser,Láser lunar>>>
+Move<<<Move,Mover>>>
+Multi-Monster Encounters<<<Multi-Monster Encounters,Encuentros múltiples>>>
+Music<<<Music,Música>>>
+Neck<<<Neck,Cuello>>>
+Necklace<<<Necklace,Collar>>>
+Negotiation<<<Negotiation,Negociación>>>
+New Skill<<<New Skill,Nueva habilidad>>>
+Next<<<Next,Siguiente>>>
+No<<<No,No>>>
+Normal<<<Normal,Normal>>>
+Number Defeated<<<Number Defeated,Número de vencidos>>>
+OK<<<OK,Aceptar>>>
+Off<<<Off,Desactivado>>>
+On<<<On,Activado>>>
+One Heart<<<One Heart,Un corazón>>>
+Party<<<Party,Grp.>>>
+Phoenix learned a skill.<<<Phoenix learned a skill.,El Fénix ha aprendido una habilidad.>>>
+Pin<<<Pin,Broche>>>
+Point<<<Point,Puntos>>>
+Portuguese<<<Portuguese,Portugués>>>
+Power<<<Power,Poder>>>
+Purchased<<<Purchased,Adquirido>>>
+Quit Game<<<Quit Game,Abandonar partida>>>
+R<<<R,D>>>
+RK<<<RK,RG>>>
+Range<<<Range,Alcance>>>
+Rank<<<Rank,RG>>>
+Reliable defender.<<<Reliable defender.,Defensor fiable.>>>
+Reliable defender.<<<Reliable defender.,Defensor muy fiable.>>>
+Remove All<<<Remove All,Quitar todo>>>
+Remove<<<Remove,Quitar>>>
+Repair Kits<<<Repair Kits,Reparaciones>>>
+Reset Camera<<<Reset Camera,Reiniciar cámara>>>
+Resourceful ability user with extra skill and accessory slots.<<<Resourceful ability user with extra skill and accessory slots.,Aventurero lleno de recursos con huecos extra de habilidades y accesorios.>>>
+Restore Defaults<<<Restore Defaults,Restablecer predeterminado>>>
+Results<<<Results,Resultados>>>
+Right<<<Right,Dcha.>>>
+Ring<<<Ring,Anillo>>>
+Row<<<Row,Fila>>>
+Ruby Function (Japanese Only)<<<Ruby Function (Japanese Only),Función Rubí (Solo en japonés)>>>
+SP<<<SP,PH>>>
+Saber-Tooth learned a skill.<<<Saber-Tooth learned a skill.,El Smilodón ha aprendido una habilidad.>>>
+Save<<<Save,Guardar>>>
+Screen Brightness<<<Screen Brightness,Brillo pantalla>>>
+Screen Position L/R<<<Screen Position L/R,Pantalla der./izq.>>>
+Screen Position Up/Down<<<Screen Position Up/Down,Pantalla arriba/abajo>>>
+Select 1 class.<<<Select 1 class.,Selecciona 1 clase.>>>
+Select 2 classes.<<<Select 2 classes.,Selecciona 2 clases.>>>
+Select 3 classes.<<<Select 3 classes.,Selecciona 3 clases.>>>
+Select 4 classes.<<<Select 4 classes.,Selecciona 4 clases.>>>
+Select 5 classes.<<<Select 5 classes.,Selecciona 5 clases.>>>
+Select 6 classes.<<<Select 6 classes.,Selecciona 6 clases.>>>
+Select 7 classes.<<<Select 7 classes.,Selecciona 7 clases.>>>
+Select 8 classes.<<<Select 8 classes.,Selecciona 8 clases.>>>
+Select a class. Your status will reflect the values of the selected class.<<<Select a class. Your status will reflect the values of the selected class.,Selecciona una clase. Tu estado reflejará los valores de la clase seleccionada.>>>
+Select<<<Select,Seleccionar>>>
+Sell<<<Sell,Vender>>>
+Sell?<<<Sell?,¿Vender?>>>
+Settings<<<Settings,Ajustes>>>
+Shadow Class<<<Shadow Class,Clase de sombra>>>
+Shadow<<<Shadow,Sombra>>>
+Shoes<<<Shoes,Zapatos>>>
+Shu<<<Shu,Shu>>>
+Single<<<Single,Único>>>
+Skill Slot<<<Skill Slot,Hueco para habilidad>>>
+Skill to Equip<<<Skill to Equip,Habilidad para equipar>>>
+Skill<<<Skill,Habilidad>>>
+Skills<<<Skills,Habilidades>>>
+Skip Events<<<Skip Events,Saltar eventos>>>
+Skip<<<Skip,Saltar>>>
+Slow<<<Slow,Lento>>>
+Small<<<Small,Pequeño>>>
+Sound Effects<<<Sound Effects,Efectos de sonido>>>
+Spanish<<<Spanish,Español>>>
+Special<<<Special,Especial>>>
+Spell Caster<<<Spell Caster,Conjurador>>>
+Spell Record<<<Spell Record,Registro de conjuros>>>
+Spell Shop<<<Spell Shop,Tienda de conjuros>>>
+Spell to Cast<<<Spell to Cast,Conjuro para lanzar>>>
+Spellbook<<<Spellbook,Libro de conjuros>>>
+Spells<<<Spells,Conjuros>>>
+Standard<<<Standard,Estándar>>>
+Status changes to match the selected class.<<<Status changes to match the selected class.,El estado cambia de acuerdo con la clase seleccionada.>>>
+Status<<<Status,Estado>>>
+Strength<<<Strength,Fuerza>>>
+Subtitles<<<Subtitles,Subtítulos>>>
+Support Magic<<<Support Magic,Mago de apoyo>>>
+Support<<<Support,Apoyo>>>
+Switch<<<Switch,Personaje>>>
+Switched skill.<<<Switched skill.,Habilidad cambiada.>>>
+Sword Master<<<Sword Master,Maestro de espada>>>
+Target First in Battle<<<Target First in Battle,Primer objetivo de batalla>>>
+Target<<<Target,Objetivo>>>
+Tension<<<Tension,Estrés>>>
+Text Display Speed<<<Text Display Speed,Velocidad texto>>>
+Text Size<<<Text Size,Tamaño texto>>>
+There are no spells or skills in %s.<<<There are no spells or skills in %s.,No hay conjuros ni habilidades en %s.>>>
+Total Assets<<<Total Assets,Total de propiedades>>>
+Total Encounters<<<Total Encounters,Total de encuentros>>>
+Total Time Played<<<Total Time Played,Tiempo total de juego>>>
+Total<<<Total,Total>>>
+Turn Left<<<Turn Left,Girar izda.>>>
+Turn Page<<<Turn Page,Pasar página>>>
+Turn Right<<<Turn Right,Girar dcha.>>>
+Type A<<<Type A,Tipo A>>>
+Type B<<<Type B,Tipo B>>>
+Type C<<<Type C,Tipo C>>>
+Type D<<<Type D,Tipo D>>>
+Type<<<Type,Tipo>>>
+Undead<<<Undead,No muerto>>>
+Unlock Class<<<Unlock Class,Desbloquear clase>>>
+Unlock the selected classes?<<<Unlock the selected classes?,¿Desbloquear las clases seleccionadas?>>>
+Until next level<<<Until next level,Hasta próximo nivel>>>
+Until next rank<<<Until next rank,Hasta próximo rango>>>
+Use Item<<<Use Item,Utilizar objeto>>>
+Use Magic<<<Use Magic,Utilizar magia>>>
+Valuables<<<Valuables,Objetos de valor>>>
+Value of Items<<<Value of Items,Valor de los objetos>>>
+Very Fast<<<Very Fast,Muy rápido>>>
+Vibration<<<Vibration,Vibración>>>
+View<<<View,Vista>>>
+Voice<<<Voice,Voz>>>
+Wagon<<<Wagon,Carro>>>
+Warp Devices Activated<<<Warp Devices Activated,Teleportadores activados>>>
+Warp<<<Warp,Teleportar>>>
+White Magic<<<White Magic,Mago blanco>>>
+Wins<<<Wins,Triunfos>>>
+Wisdom<<<Wisdom,Sabiduría>>>
+World Map<<<World Map,Mapa del mundo>>>
+X<<<X,X>>>
+Yes<<<Yes,Sí>>>
+You can unlock new classes for your Shadow!<<<You can unlock new classes for your Shadow!,¡Puedes desbloquear nuevas clases para tu sombra!>>>
+Zola<<<Zola,Zola>>>
+Zoom<<<Zoom,Zoom>>>
+?<<<?,?>>>
+?<<<?,?>>>
+?<<<?,?>>>
+?<<<?,?>>>
+???<<<???,???>>>
+????<<<????,????>>>
