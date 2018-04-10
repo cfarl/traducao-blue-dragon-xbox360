@@ -33,7 +33,7 @@ Registro de batalhas||Battle Record,Registro de batallas||
 Batalha||Battle,Batalla||
 Cinto||Belt,Cinturón||
 Ótimo em ataques físicos carregados.||Best at charged physical attacks.,Óptimo con ataques físicos cargados.||
-Magia Negra||Black Magic,Mago negro||
+Mago Negro||Black Magic,Mago negro||
 Pulseira||Bracelet,Pulsera||
 Comprar?||Buy?,¿Comprar?||
 Comprar||Buy,Comprar||
@@ -292,7 +292,7 @@ Voz||Voice,Voz||
 Carro||Wagon,Carro||
 Teleportadores ativados||Warp Devices Activated,Teleportadores activados||
 Teleportar||Warp,Teleportar||
-Magia Branca||White Magic,Mago blanco||
+Mago Branco||White Magic,Mago blanco||
 Conquistas||Wins,Triunfos||
 Sabedoria||Wisdom,Sabiduría||
 Mapa do mundo||World Map,Mapa del mundo||
