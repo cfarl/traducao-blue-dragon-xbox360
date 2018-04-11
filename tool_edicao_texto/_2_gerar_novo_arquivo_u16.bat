@@ -1,4 +1,4 @@
-java -cp tool bluedragon.ImportarTexto arquivos-extracao 
+java -cp ..\tools\tool bluedragon.ImportarTexto arquivos-extracao 
 pause
 
 
