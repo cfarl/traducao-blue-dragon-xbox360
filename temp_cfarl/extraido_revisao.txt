@@ -1,0 +1,856 @@
+--->Extraindo texto do arquivo mes_bg13_01_us.u16
+Você está saindo desta cidade? #Y||Leave this town? #Y,¿Te marchas de esta ciudad? #Y||
+Eu nunca tinha visto alguém tão teimoso... Eu não poderia falar com outro ministro?||I've never seen someone so stubborn... Are there any other ministers I can talk to?,Jamás había visto a alguien tan cabezota... ¿No podría hablar con otro ministro?||
+A reconstrução de Talta? A aniquilação dos monstros? Você sabe o quanto isso vai custar?||The restoration of Talta? Slaying monsters? Do you have any idea how much that would cost?,¿La reconstrucción de Talta? ¿La aniquilación de los monstruos? Pero ¿sabes la fortuna que costaría eso?||
+O resgate de hoje saiu bastante caro. Nós não podemos sair do teto.||Today's rescue was expensive enough. You should remember your place.,El rescate de hoy ha salido bastante caro. No podemos salirnos del tiesto.||
+Peço por favor! A aldeia tem que ser habitável.||I beg you please! The village needs to be livable!,¡Te lo pido por favor! La aldea tiene que estar habitable.||
+"É inaceitável, por favor, você deveria sair agora."||"This is unacceptable. Please, you must leave now.","Es inaceptable. Por favor, debes marcharte ya."||
+"Algum dia, quando eu voltar para a vila, vou deixá-la tão bonita."||"Someday when I go back to the village, I'm going to make it as beautiful as it is here!","Algún día, cuando regrese a la aldea, la dejaré así de bonita."||
+Paruto! Eu não vi você desde que saímos da Vila de Talta. O que faz aqui?||Paruto! I haven't seen you since we left Talta Village! What are you doing here?,¡Paruto! No te veo desde que nos fuimos de la aldea de Talta. ¿Qué haces aquí?||
+Kluke... É que o jardim é tão lindo que...||"Kluke? Well, this garden is so lovely...",Kluke... Es que el jardín es tan hermoso que...||
+"Eu estou apenas chocado, eu não tenho a menor idéia de como eles fizeram este jardim tão bonito."||"I am just shocked, I don't even have the slightest idea of how they made this garden so beautiful.",Me he quedado de piedra. No sé cómo han hecho para que este jardín sea tan hermoso.||
+Eu acredito que a sala do trono está no andar mais alto. Mas eles não vão deixar você entrar sem uma audiência.||I believe the throne room is on the highest floor. But they won't let you in without an appointment.,"Creo que el salón del trono está en la planta superior, pero no te dejarán pasar sin audiencia."||
+Morizon! O que você está fazendo aqui?||Morizon! What are you doing here?,"Morizón, ¿qué haces aquí?"||
+Eu estava olhando o retrato do Rei Jibral.||I was looking at the portrait of King Jibral.,Contemplaba el retrato del rey Yibral.||
+O rei é tão legal quanto Maro!||King is as cool as Maro!,¡El rey mola tanto como Marumaro!||
+"O rei é jovem, mas governa bem. Ele ajudará a todos, sem dúvida."||"The king is young, but rules well. He will help us all, without a doubt.","Aunque aún es joven, el rey gobierna con sabiduría y nos ayudará, no cabe duda."||
+A família real de Jibral possui muito podere.||The Jibral royal family has great royal power.,La familia real de Yibral tiene muchas potestades.||
+Este castelo é tão grande quanto eu imaginava... seria maravilhoso morar em um lugar como este.||This Castle is as grand as I thought...it would be wonderful to live somewhere like this.,Este castillo no me ha decepcionado... Sería magnífico vivir en un sitio así de opulento.||
+Com certeza é um castelo maravilhoso. Bom que eu vivi muito tempo para ver isso!||It sure is a wonderful castle. Good that I lived long to see this!,Es un castillo increíble. Menos mal que he vivido para verlo.||
+O cavalo do rei é legal! Eu quero me juntar aow Mestres da Espada algum dia!||The king's horse is cool! I want to join the Blademasters someday!,"¡Cómo mola el corcel del rey! ¡Algún día, quiero convertirme en Maestro de espada!"||
+Shu! Olhe este grande jardim!||Shu! Look at this great garden!,"Shu, mira qué jardín."||
+"Coluti! O que você está fazendo aqui? Isso não é Talta, então se comporte!"||"Coluti! What are you doing here? This isn't Talta, so behave yourself!","Colduti, ¿qué haces aquí? No estás en Talta, así que compórtate."||
+Sim senhor! Heh heh heh... estava imitando os Mestres da Espada!||Yes sir! Heh heh heh... that was my Blademasters impression!,"¡A la orden! Je, je, je... Estaba imitando a los Maestros de espada."||
+Me siga!||Follow me!,¡Seguidme!||
+Os Mestres da Espada são os guardas do rei.||The Blademasters are the king's guardsmen.,Los Maestros de espada protegen al rey.||
+Nosso atual líder é Lady Zola. Ela é uma capitã fabulosa.||Our current leader is Lady Zola. She's a fabulous female captain.,"Nuestra líder es la capitán Zola, una mujer de armas tomar."||
+Os Mestres da Espada também descansam.||The Blademasters also rest.,Los Maestros de espada también descansan.||
+Ninguém sabe de onde veio Lady Zola.||No one knows where Lady Zola came from.,Nadie sabe de dónde ha salido Zola.||
+"Não diga, mas há uma arma secreta escondida aqui."||"Don't tell, but there's a secret weapon hidden here.","No lo comentes, pero aquí se esconde un arma secreta."||
+O cara ao meu lado é um pouco estranho. É melhor ignorá-lo.||The guy next to me is a little strange. It's better to ignore him.,El que está a mi lado es un poco rarito. No hay que hacerle caso.||
+Relinchar!||Neigh!,¡Hiii hiii!||
+Eu sou o chefe de cozinha do rei. Todos aqui são meus assistentes.||I am the king's chief chef. Everyone here is my assistant.,Soy el gran chef real y todos estos trabajan para mí.||
+"Ei! Posso ajudá-lo? Você precisa de algo da cozinha, senhor?"||"Hey! Can I help you? Do you need something from the kitchen, sir?",¡Oye! ¿Puedo ayudarte? ¿Necesitas algo de la cocina?||
+Eu apenas cheirei algo realmente delicioso.||I just smelled something really delicious.,Es que huele que alimenta.||
+Ho ho ho... Você terá a chance de um dia provar meus pratos.||Ho ho ho... You will have the chance someday to taste my dishes.,"Ja, ja, ja... Un día de estos, te dejaré probar mis platos."||
+É algo que você pode esperar.||It's something you can look forward to.,"Por ahora, te vas a quedar con las ganas."||
+Eu sou o primeiro assistente do chefe de cozinha. Eu posso cozinhar tão perfeitamente quanto o meu mestre.||I am the chief chef's first assistant. I can cook as perfectly as my master.,Soy el primer pinche del gran chef y cocino igual de bien que mi maestro.||
+Eu sou o segundo assistente do chefe de cozinha. Eventualmente todos nós parecemos se assemelhar a ele.||I am the chief chef's second assistant. We all seem to resemble him eventually.,"Soy el segundo pinche del gran chef. Al final, todos acabamos pareciéndonos a él."||
+Eu sou apenas um assistente aqui. Mas vou me acabar parecendo o grande chefe.||I'm just an assistant here. But even I ended up looking like the chief chef.,"Aunque soy un mero pinche, hasta yo he acabado pareciéndome al gran chef."||
+"Quanto mais eles trabalham aqui, mais se parecem com ele. Eu tento evitar o máximo possível."||"The longer they work here, the more they resemble him. I try to avoid here as much as possible.","Cuanto más trabajan aquí, más se parecen a él. Si puedo evitarlo, prefiero no venir."||
+"Se você tem um pedido, veja o ministro sênior. Ele deve estar em algum lugar neste andar."||"If you have a request, see the senior minister. He should be somewhere on this floor.","Si quieres solicitar algo, habla con el gran ministro, que está por esta planta."||
+Hm Eu pensei que eu tinha dito para não deixar ninguém entrar. O que você quer aqui?||Hm? I thought I told them to keep people out. What do you need here?,¿Cómo? Les dije que no entrara nadie. ¿Qué quieres?||
+Hum ...||Umm...,Mmm...||
+"Sim, sim, consulte o ministro sênior para pedidos. Ele deve estar em algum lugar neste andar."||"Yes, yes, see the senior minister for requests. He should be somewhere on this floor.","Sí, sí, que hables con el gran ministro. Está en esta planta."||
+Leve suas questões triviais para o ministro sênior. Eu estou muito ocupado.||Take your trivial questions to the senior minister. I am very busy.,"Esas cuestiones triviales, al gran ministro, que yo tengo mucho trabajo."||
+"Oh querida, agora crianças? Estou ocupado. Por favor, esteja a caminho."||"Oh dear, now children? I am busy. Please be on your way.","Madre mía. Y ahora ¿unos niños? Marchaos, que tengo mucho trabajo."||
+Nosso chefe da aldeia estava te implorando! Por favor pense em Talta!||Our village chief was begging you back there! Please think of Talta!,¡El jefe de la aldea te lo pidió de rodillas! ¡Piensa en Talta!||
+Basta! Estou ocupado. Leve essa conversa para o ministro sênior.||Enough! I am busy. Bring that talk to the senior minister.,"¡Ya basta! Tengo mucho trabajo, así que hablad con el gran ministro."||
+A sala do trono é um andar acima. Esses soldados vão te guiar.||The throne room is one floor up. Those soldiers will guide you.,El salón del trono está en la siguiente planta. Los soldados te mostrarán el camino.||
+Você é de Talta? As pessoas de Talta estão no castelo agora.||Are you from Talta? People from Talta are in the castle now.,¿Sois de Talta? Hay varios paisanos vuestros visitando el castillo.||
+Este é o quarto de hóspedes. Alguns outros de Talta estão aqui agora.||This is the guest quarters. Some others from Talta are here now.,Los aposentos de invitados. Han venido unos cuantos de Talta.||
+Apenas pessoas selecionadas podem entrar no Castelo de Jibral.||Only select persons can enter Jibral Castle.,Sólo unos pocos afortunados entran en el castillo Yibral.||
+O Castelo de Jibral é enorme. Tenha cuidado para não se perder.||Jibral Castle is huge. Be careful not to get lost.,El castillo Yibral es inmenso. No os perdáis.||
+Atualmente estamos discutindo uma estratégia importante.||We're currently discussing important strategy.,Estamos planteando una importante estrategia.||
+Eu não posso dizer o que é.||I cannot say what it is.,No puedo desvelar cuál.||
+Há muitas pessoas no grande salão hoje.||There are a lot of people in the grand hall today.,Hoy el salón regio está de bote en bote.||
+Eu me pergunto se vamos conseguir um aumento.||I wonder if we'll get a raise.,¿Nos subirán el sueldo?||
+Tem havido muitos monstros ultimamente.||There have been a lot of monsters lately.,"Últimamente, hay monstruos por todos lados."||
+"Se você está indo para o andar de cima, cuidado com seus modos pelo caminho."||"If you're going upstairs, mind your manners as you go.","Si vas a subir, cuida tus modales por el camino."||
+Não é um belo jardim?||Isn't it a beautiful garden?,¿A que es un jardín precioso?||
+Não é um belo jardim?||Isn't it a beautiful garden?,¿A que es un jardín precioso?||
+Este é o quarto de Lady Zola... Mas ela está falando com o rei agora.||This is Lady Zola's room... But she is talking to the king now.,Es el cuarto de Zola... pero ahora está reunida con el rey.||
+Este é o quartel do ministro Jonveeno. Por favor seja educado.||This is Minister Jonveeno's quarters. Please be polite.,"Hay que comportarse, que estamos en el gabinete del ministro Yonvino."||
+O jardim central está à frente.||The central garden is ahead.,El jardín central está más adelante.||
+O jardim central está à frente.||The central garden is ahead.,El jardín central está más adelante.||
+Este é o quartel do ministro. Por favor seja educado.||This is the senior minister's quarters. Please be polite.,"Hay que comportarse, que estamos en el gabinete del gran ministro."||
+Este é o quarto de espera dos Mestres da Espada.||This is the Blademasters' waiting quarters.,Esta es la antesala para los Maestros de espada.||
+"Você não está aqui procurando problemas, certo?"||"You're not here for trouble, right?","No buscáis problemas, ¿a que no?"||
+Além desta porta é a sala do trono.||Beyond this door is the throne room.,"Detrás de esta puerta, está el salón del trono."||
+Além desta porta é a sala do trono.||Beyond this door is the throne room.,"Detrás de esta puerta, está el salón del trono."||
+Esta é a sala do trono.||This is the throne room.,Este es el salón del trono.||
+Esta é a sala do trono.||This is the throne room.,Este es el salón del trono.||
+Eles estão fazendo pesquisas secretas. Pessoas não autorizadas não são permitidas.||They are doing top-secret research ahead. Unauthorized persons are not allowed.,Ahí dentro llevan a cabo una investigación secreta. Se prohíbe el paso a personas no autorizadas.||
+Não é magnífico! Este é o cavalo do rei.||Isn't it magnificent! This is the king's horse.,¿A que es una maravilla? El corcel del rey.||
+"Se você estiver indo para o andar de cima, use a escada principal à sua frente."||"If you're going upstairs, use the main staircase ahead of you.","Si vas a subir, ve por la escalera principal que tienes delante."||
+Eu realizei o meu sonho ao me tornar um soldado de Jibral.||I've fulfilled my dream of becoming a Jibral soldier.,Por fin he cumplido mi sueño de ser soldado de Yibral.||
+Você pode ir até o Grande Salão por esta porta.||You can go down to the Great Hall through this door.,"Por esta puerta, se llega al salón regio."||
+Você pode ir até o Grande Salão por esta porta.||You can go down to the Great Hall through this door.,"Por esta puerta, se llega al salón regio."||
+Meus antepassados também trabalharam para Jibral.||My ancestors also worked for Jibral.,Mis antepasados también trabajaban para Yibral.||
+Este é o quarto do rei.||This is the king's quarters.,Los aposentos reales.||
+Por esta porta ocê pode chegar ao laboratório do porão.||You can get to the basement lab through this door.,Esta puerta da al laboratorio del sótano.||
+Este é a sala de espera dos soldados.||This is the soldiers' waiting quarters.,Esta es la antesala para los soldados.||
+O laboratório está à frente. Você deve ficar quieto.||The lab is ahead. You must be quiet.,El laboratorio está ahí delante. Silencio.||
+"Há coisas interessantes no laboratório do porão. Vou lhe conceder acesso, então vá e dê uma olhada."||"There are interesting things in the basement lab. I'll grant you access, so go and have a look.","En el laboratorio del sótano hay cosas muy interesantes. Echad un vistazo, que os permito el acceso."||
+Zola disse que ela estaria visitando o laboratório também.||Zola said she would be visiting the lab too.,Zola dijo que también visitaría el laboratorio.||
+O tempo da batalha está se aproximando... Preciso ver o que está acontecendo no laboratório.||The time for battle is closing in... I must see what's happening in the lab.,Falta poco para la batalla... Debo comprobar qué ocurre en el laboratorio.||
+Eu estou indo para o laboratório do porão. Eu vou avisá-los de que você virá.||I am going to the basement lab. I will let them know you will be coming.,Voy al laboratorio del sótano a decirles que vais a ir.||
+Os Mestres da Espada são os guardas do rei.||The Blademasters are the king's guardsmen.,Los Maestros de espada protegen al rey.||
+Nosso atual líder é Lady Zola. Ela é uma capitã fabulosa.||Our current leader is Lady Zola. She's a fabulous female captain.,"Nuestra líder es la capitán Zola, una mujer de armas tomar."||
+Os Mestres da Espada também descansam.||The Blademasters also rest.,Los Maestros de espada también descansan.||
+"Você viu o porão? Se você ainda não viu, deve dar uma olhada."||"Have you seen the basement? If you have not seen it yet, you should go take a look.","¿Habéis visto el sótano? Si no lo habéis visto, deberíais echar un vistazo."||
+"Não comente, mas há uma arma secreta escondida aqui."||"Don't tell, but there's a secret weapon hidden here.","No lo comentes, pero aquí se esconde un arma secreta."||
+O cara ao meu lado é um pouco estranho. É melhor ignorá-lo.||The guy next to me is a little strange. It's better to ignore him.,El que está a mi lado es un poco rarito. No hay que hacerle caso.||
+Relinchar!||Neigh!,¡Hiii hiii!||
+Os Gorgos deve lutar bravamente pelo rei Jibral!||The Gorgos shall fight bravely for King Jibral!,¡Los golgo darán la vida por el rey Yibral!||
+Jibral não pode fazer nada sem os Gorgos.||Jibral can do nothing without the Gorgos.,Yibral no tiene nada que hacer sin los golgo.||
+"Há muito lixo descartado aqui, é difícil andar por aí. Tenha cuidado."||"There's so much junk here, it's hard to walk around. Be careful.","Hay tanta chatarra tirada, que apenas se puede andar. Mucho cuidado."||
+Estamos procurando por peças para consertar o Mechat abatido.||We're looking through this junk for parts to repair the downed mechat.,"Entre tanta chatarra, buscamos piezas que permitan reparar el mecóptero derribado."||
+Lady Zola está na sala dos fundos.||Lady Zola is in the room at the back.,Zola se encuentra en la habitación trasera.||
+"Felizmente, o único dano causado ao navio que derrubamos foi o nosso ataque."||"Fortunately, the only damage done to the ship we shot down was from our attack.","Por suerte, los únicos daños de la nave que derribamos los infligimos nosotros."||
+"Depois do resgate, nós o desmontamos. Agora estamos analisando seu equipamento interno na sala dos fundos."||"After salvage, we took it apart. Now we are analyzing its internal equipment in the back room.","Después del salvamento, la desmontamos para analizar la maquinaria interna en la habitación trasera."||
+Surprised? This is a machine called a mechat. We shot it down with a giant arrow.||Surprised? This is a machine called a mechat. We shot it down with a giant arrow.,¿Te sorprende? Esta máquina es un mecóptero. Lo derribamos con una flecha gigante.||
+"Unfortunately, the arrow launcher was destroyed by the mother ship."||"Unfortunately, the arrow launcher was destroyed by the mother ship.","Por desgracia, la nave nodriza nos destruyó el lanzaflechas."||
+That blue barrier is made from ancient technology. We're looking for a way to disable it.||That blue barrier is made from ancient technology. We're looking for a way to disable it.,Esa barrera azul está fabricada con tecnología ancestral. Aún no sabemos cómo desactivarla.||
+"We looked through ancient books, and we found an odd technique called a Field Barrier."||"We looked through ancient books, and we found an odd technique called a Field Barrier.",Consultamos muchos libros ancestrales y hallamos una técnica denominada la barrera.||
+It creates a barrier of light that can damage things. But you cannot gain experience by using it.||It creates a barrier of light that can damage things. But you cannot gain experience by using it.,"Con ella, se crea una barrera de luz que provoca daños, pero aunque la uses, no adquirirás experiencia."||
+"You can only gain experience for your Shadow, your source of magic power... or so it is written."||"You can only gain experience for your Shadow, your source of magic power... or so it is written.","Sólo adquieres experiencia para tu sombra, tu fuente de poder mágico... O eso pone en los libros."||
+The Eternal Engine is an ancient machine created with magic to run forever without using any fuel.||The Eternal Engine is an ancient machine created with magic to run forever without using any fuel.,El reactor eterno es una máquina ancestral diseñada con magia para que funcione eternamente sin combustible.||
+The heart of that ship is stored ahead. Our future strategy hinges on it.||The heart of that ship is stored ahead. Our future strategy hinges on it.,El núcleo de esa nave está más adelante. Nuestra estrategia futura depende de eso.||
+The energy created with the Eternal Engine could break apart the tsunami vortex.||The energy created with the Eternal Engine could break apart the tsunami vortex.,"Con la energía generada con el reactor eterno, se podría destruir el vórtice maremoto."||
+"We're very patient, so when you find a mystery you can come back at any time."||"We're very patient, so when you find a mystery you can come back at any time.","Tenemos mucha paciencia. Si encontráis un objeto misterioso, volved por aquí."||
+I am the king's chief chef. Everyone here is my assistant.||I am the king's chief chef. Everyone here is my assistant.,Soy el gran chef real y todos estos trabajan para mí.||
+I am the chief chef's first assistant. I can cook as perfectly as my master.||I am the chief chef's first assistant. I can cook as perfectly as my master.,Soy el primer pinche del gran chef y cocino igual de bien que mi maestro.||
+I am the chief chef's second assistant. We all seem to resemble him eventually.||I am the chief chef's second assistant. We all seem to resemble him eventually.,"Soy el segundo pinche del gran chef. Al final, todos acabamos pareciéndonos a él."||
+I'm just an assistant here. But even I ended up looking like the chief chef.||I'm just an assistant here. But even I ended up looking like the chief chef.,"Aunque soy un mero pinche, hasta yo he acabado pareciéndome al gran chef."||
+"The longer they work here, the more they resemble him. I try to avoid here as much as possible."||"The longer they work here, the more they resemble him. I try to avoid here as much as possible.","Cuanto más trabajan aquí, más se parecen a él. Si puedo evitarlo, prefiero no venir."||
+"The king is expecting a lot from magic, but I don't have a lot of faith in it."||"The king is expecting a lot from magic, but I don't have a lot of faith in it.","Por mucho que espere el rey de la magia, a mí no me inspira mucha confianza."||
+Take your trivial questions to the senior minister. I am very busy.||Take your trivial questions to the senior minister. I am very busy.,"Esas cuestiones triviales, al gran ministro, que yo tengo mucho trabajo."||
+Come see me again.||Come see me again.,Ven a verme otro día.||
+"What, you're leaving already?"||"What, you're leaving already?","¿Cómo, ya te marchas?"||
+"Hey, it's the dog lover! Why are you here in the castle?"||"Hey, it's the dog lover! Why are you here in the castle?",¡El amante de los perros! ¿Qué haces en el castillo?||
+Ho ho ho. I am a minister here in Jibral.||Ho ho ho. I am a minister here in Jibral.,"Ja, ja, ja. Soy ministro de Yibral."||
+Say hi to the girl and the puppy.||Say hi to the girl and the puppy.,Saluda a la chica y al cachorrito.||
+They sure can eat!||They sure can eat!,¡Comen como limas!||
+The people from Talta have finished eating and have returned to Castle Town.||The people from Talta have finished eating and have returned to Castle Town.,Los de Talta han terminado de comer y han regresado a la ciudad del castillo.||
+"To get to the town, go through these doors."||"To get to the town, go through these doors.","Por estas puertas, se va a la ciudad."||
+You're free to come and go as you please.||You're free to come and go as you please.,Podéis moveros con total libertad.||
+We're currently discussing important strategy.||We're currently discussing important strategy.,Estamos planteando una importante estrategia.||
+I cannot say what it is.||I cannot say what it is.,No puedo desvelar de qué se trata.||
+The people from Talta have gone home already.||The people from Talta have gone home already.,Los habitantes de Talta han regresado a casa.||
+I wonder if we'll get a raise.||I wonder if we'll get a raise.,¿Nos subirán el sueldo?||
+There have been a lot of monsters lately.||There have been a lot of monsters lately.,"Últimamente, hay muchos monstruos."||
+"If you're going upstairs, mind your manners as you go."||"If you're going upstairs, mind your manners as you go.","Si vas a subir, cuida tus modales por el camino."||
+Isn't this a wonderful garden?||Isn't this a wonderful garden?,¿A que es un jardín precioso?||
+Isn't this a wonderful garden?||Isn't this a wonderful garden?,¿A que es un jardín precioso?||
+Lady Zola is out. She said she was going to the basement lab.||Lady Zola is out. She said she was going to the basement lab.,La capitán Zola se ha marchado al laboratorio del sótano.||
+This is Minister Jonveeno's quarters. Please be polite.||This is Minister Jonveeno's quarters. Please be polite.,"Hay que comportarse, que estamos en el gabinete del ministro Yonvino."||
+The central garden is ahead.||The central garden is ahead.,El jardín central está más adelante.||
+The central garden is ahead.||The central garden is ahead.,El jardín central está más adelante.||
+This is the senior minister's quarters. Please be polite.||This is the senior minister's quarters. Please be polite.,"Hay que comportarse, que estamos en el gabinete del gran ministro."||
+This is the Blademasters' waiting quarters.||This is the Blademasters' waiting quarters.,Esta es la antesala para los Maestros de espada.||
+"Hey, I heard you're going to participate in the strategy."||"Hey, I heard you're going to participate in the strategy.",Me he enterado de que vas a participar en la estrategia.||
+Beyond this door is the throne room..||Beyond this door is the throne room..,El salón del trono está detrás de esta puerta.||
+This is the throne room.||This is the throne room.,Este es el salón del trono.||
+This is the throne room.||This is the throne room.,Este es el salón del trono.||
+This is the throne room.||This is the throne room.,Este es el salón del trono.||
+Please go on through.||Please go on through.,"Por favor, adelante."||
+This is the lounge.||This is the lounge.,La sala de estar.||
+Isn't it magnificent! This is the king's horse.||Isn't it magnificent! This is the king's horse.,¿A que es una maravilla? El corcel del rey.||
+That big one is a Gorgo. They're used as soldiers in Jibral.||That big one is a Gorgo. They're used as soldiers in Jibral.,"Ese grandullón es un golgo. En Yibral, luchan como soldados."||
+It's time for a break.||It's time for a break.,Vamos a descansar.||
+I wonder if we'll get more breaks.||I wonder if we'll get more breaks.,¿Nos darán más descansos?||
+Even soldiers need breaks.||Even soldiers need breaks.,Los soldados también necesitan descansar.||
+"If you're going upstairs, use the main staircase ahead of you."||"If you're going upstairs, use the main staircase ahead of you.","Si vas a subir, ve por la escalera principal que tienes delante."||
+I've fulfilled my dream of becoming a Jibral soldier.||I've fulfilled my dream of becoming a Jibral soldier.,Por fin he cumplido mi sueño de ser soldado de Yibral.||
+You can go down to the Great Hall through this door.||You can go down to the Great Hall through this door.,"Por esta puerta, se llega al salón regio."||
+You can go down to the Great Hall through this door.||You can go down to the Great Hall through this door.,"Por esta puerta, se llega al salón regio."||
+Have you seen the lab?||Have you seen the lab?,¿Habéis visto el laboratorio?||
+The king returned to his quarters.||The king returned to his quarters.,El rey ha regresado a sus aposentos.||
+You can get to the basement lab through this door.||You can get to the basement lab through this door.,Esta puerta da al laboratorio del sótano.||
+This is the soldiers' waiting quarters.||This is the soldiers' waiting quarters.,Esta es la antesala para los soldados.||
+The lab is ahead. Please be quiet.||The lab is ahead. Please be quiet.,El laboratorio está ahí delante. Silencio.||
+Lady Zola!||Lady Zola!,¡Capitán Zola!||
+Lady Zola!||Lady Zola!,¡Capitán Zola!||
+What?||What?,¿Qué?||
+"Take a walk about Jibral if you like. When you get tired, stop in at the inn. "||"Take a walk about Jibral if you like. When you get tired, stop in at the inn. ","Recorred Yibral a vuestro aire. Cuando os canséis, hospedaos en la posada. "||
+Have you seen the lab?||Have you seen the lab?,¿Habéis visto el laboratorio?||
+The king is in his quarters.||The king is in his quarters.,El rey está en sus aposentos.||
+Lady Zola has returned to her quarters.||Lady Zola has returned to her quarters.,Zola ha regresado a sus aposentos.||
+"I will leave war to men. Of course, there are women who are stronger than men."||"I will leave war to men. Of course, there are women who are stronger than men.","La guerra, para los hombres. Aunque hay mujeres más fuertes que los hombres."||
+To burst in here when I'm balancing the books! Nene knows nothing of economy.||To burst in here when I'm balancing the books! Nene knows nothing of economy.,¡Interrumpirme cuando estoy cuadrando las cuentas! Nené no sabe nada de economía.||
+I think my virtue is why children and dogs like me so much... Hah hah!||I think my virtue is why children and dogs like me so much... Hah hah!,"Los niños y los perros me adoran por mi virtud... Ja, ja."||
+"Don't worry, I'll take care of the dog. Now then, to the roof! The king is waiting."||"Don't worry, I'll take care of the dog. Now then, to the roof! The king is waiting.","No pasa nada, yo me ocupo del perro. A la azotea, que el rey aguarda."||
+"Take this with you, then. It might be of some help."||"Take this with you, then. It might be of some help.",Pues llevaos esto. Quizá os sirva en alguna ocasión.||
+"Don't worry, I'll take care of the dog. Now then, to the roof! The king is waiting."||"Don't worry, I'll take care of the dog. Now then, to the roof! The king is waiting.","No pasa nada, yo me ocupo del perro. A la azotea, que el rey aguarda."||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+They're busy preparing the second and third floors so don't get in the way.||They're busy preparing the second and third floors so don't get in the way.,"Están preparando las plantas segunda y tercera, así que intentad no estorbar mucho."||
+"Hey, you made it. The king is waiting on the roof."||"Hey, you made it. The king is waiting on the roof.","Vaya, habéis llegado. El rey aguarda en la azotea."||
+Not used||Not used,Sin usar||
+Both the king and Lady Zola are out on the roof.||Both the king and Lady Zola are out on the roof.,El rey y la capitán Zola están en la azotea.||
+It's time to battle the tsunami vortex!||It's time to battle the tsunami vortex!,¡Ha llegado la hora de plantarle cara al vórtice maremoto!||
+"Please, go over to the king. The central garden is full with people from the Aerial Troops."||"Please, go over to the king. The central garden is full with people from the Aerial Troops.",Id junto al rey. El jardín central está abarrotado de profesionales del escuadrón aéreo.||
+"Please, go over to the king. The central garden is full with people from the Aerial Troops."||"Please, go over to the king. The central garden is full with people from the Aerial Troops.",Id junto al rey. El jardín central está abarrotado de profesionales del escuadrón aéreo.||
+"It's dangerous, so hide somewhere."||"It's dangerous, so hide somewhere.",Corréis peligro. Escondeos.||
+The Blademasters are already heading for the roof.||The Blademasters are already heading for the roof.,Los Maestros de espada ya se dirigen a la azotea.||
+Those are Jibral's Aerial Troops. They are air-fighting professionals!||Those are Jibral's Aerial Troops. They are air-fighting professionals!,Los asaltantes aéreos de Yibral. ¡Son unos profesionales del ejército del aire!||
+The king awaits you on the roof!||The king awaits you on the roof!,¡El rey aguarda en la azotea!||
+The king awaits you on the roof!||The king awaits you on the roof!,¡El rey aguarda en la azotea!||
+"Why are you here? Hurry up, to the roof!"||"Why are you here? Hurry up, to the roof!","¿Qué hacéis aquí? ¡A la azotea, deprisa!"||
+Leave the throne room to us. Hurry up to the roof!||Leave the throne room to us. Hurry up to the roof!,Nosotros nos encargamos del salón del trono. ¡Corred a la azotea!||
+What is this...? This sudden chill. Is it because of that strange purple cloud?||What is this...? This sudden chill. Is it because of that strange purple cloud?,¿Y este...? Este frío tan repentino. ¿Será por esa extraña nube púrpura?||
+The one at the front of the left line is my younger brother. I hope he doesn't try to show off.||The one at the front of the left line is my younger brother. I hope he doesn't try to show off.,El primero de la fila izquierda es mi hermano pequeño. Espero que no intente dárselas de chulo.||
+You made it. The king is waiting on the roof.||You made it. The king is waiting on the roof.,Has llegado. El rey aguarda en la azotea.||
+You made it. The king is waiting on the roof.||You made it. The king is waiting on the roof.,Has llegado. El rey aguarda en la azotea.||
+We are Jibral's air forces. We've trained for this day.||We are Jibral's air forces. We've trained for this day.,Somos la fuerza aérea de Yibral y nos han entrenado para este día.||
+It's about to start... Who are we going to fight?||It's about to start... Who are we going to fight?,Está a punto de empezar... ¿A quiénes nos enfrentamos?||
+We're boarding a balloon from the central garden.||We're boarding a balloon from the central garden.,Vamos a abordar un globo que hay en el jardín central.||
+We're finally putting the long years of the king's plans into action. You should go up to the roof.||We're finally putting the long years of the king's plans into action. You should go up to the roof.,"Después de tantos años, por fin vamos a llevar a cabo los planes del rey. Subid a la azotea."||
+Leave this to us. You should go up to the roof.||Leave this to us. You should go up to the roof.,Nosotros nos encargamos. Vosotros subid a la azotea.||
+"I'm so nervous, my heart's about to explode! But I will fight bravely."||"I'm so nervous, my heart's about to explode! But I will fight bravely.","Tengo tantos nervios que el corazón se me va a salir, pero lucharé con valentía."||
+Nothing can defeat us in the air. We are Jibral's Aerial Troops.||Nothing can defeat us in the air. We are Jibral's Aerial Troops.,Nadie nos derrotará en el aire. Somos el escuadrón aéreo de Yibral.||
+"First time I've seen you kids. You're the magic-users, aren't you?"||"First time I've seen you kids. You're the magic-users, aren't you?","No os había visto antes. Sois los niños con los poderes mágicos, ¿a que sí?"||
+Hic! I joined in a toast a little while ago. Ha ha!||Hic! I joined in a toast a little while ago. Ha ha!,"¡Hip! Hemos brindado hace un ratito. ¡Ja, ja!"||
+Don't worry. We have trained day in and day out for this moment.||Don't worry. We have trained day in and day out for this moment.,No pasa nada. Hace años que nos preparamos para este momento.||
+Our plan will succeed! It must!||Our plan will succeed! It must!,¡Nuestro plan dará resultado! ¡Seguro!||
+The future is in our hands! Failure is not an option.||The future is in our hands! Failure is not an option.,¡El futuro está en nuestra mano! El fracaso no es una opción.||
+I wonder if we'll fight the terrible weapons depicted on the ancient murals.||I wonder if we'll fight the terrible weapons depicted on the ancient murals.,No sé si nos enfrentaremos a las horribles armas representadas en los murales ancestrales.||
+We're locked and loaded. Ready to go.||We're locked and loaded. Ready to go.,Estamos armados hasta los dientes y con ganas de jaleo.||
+The ancient weapons are no match for Jibral's technical skills.||The ancient weapons are no match for Jibral's technical skills.,Las armas ancestrales nada tienen que hacer frente a la técnica de Yibral.||
+But what is this strange sound? It's throwing me off!||But what is this strange sound? It's throwing me off!,¿De dónde viene ese extraño ruido? ¡Me está mareando!||
+Not used||Not used,Sin usar||
+The king has already headed for the roof. He should be waiting for you.||The king has already headed for the roof. He should be waiting for you.,El rey ya se ha marchado hacia la azotea y estará esperando.||
+The servants and scientists were evacuated downstairs. Many years of planning are about to pay off!||The servants and scientists were evacuated downstairs. Many years of planning are about to pay off!,"Los sirvientes y los científicos han sido evacuados. Tras largos años, ahora recogeremos los frutos."||
+You're in the way! Move!||You're in the way! Move!,¡Estáis en medio! ¡Apartaos!||
+"Ohhh, this is the end of Jibral! I've never seen anything so horrific!"||"Ohhh, this is the end of Jibral! I've never seen anything so horrific!",¡Oh! ¡Es el fin de Yibral! ¡Jamás había visto nada tan espantoso!||
+"Don't worry about us, hurry on up to the roof."||"Don't worry about us, hurry on up to the roof.","No os preocupéis por nosotros. Id a la azotea, deprisa."||
+There can be no delays. Failure is not an option!||There can be no delays. Failure is not an option!,No se permitirán los retrasos. ¡El fracaso no es una opción!||
+What're you doing? Step aside!||What're you doing? Step aside!,¿Qué hacéis? ¡Apartad de ahí!||
+There is something we must protect.||There is something we must protect.,Hay algo que debemos proteger.||
+"All right, here we go!"||"All right, here we go!",¡Vamos allá!||
+We fight as one! Get up in the balloon and fight!||We fight as one! Get up in the balloon and fight!,¡Luchamos unidos! ¡Al globo y a la carga!||
+"Using the balloons, huh? Good luck!"||"Using the balloons, huh? Good luck!","En los globos, ¿eh? ¡Suerte!"||
+We'll have some tales to tell after we're done with this!||We'll have some tales to tell after we're done with this!,Ya les podremos contar batallitas a nuestros nietos cuando esto acabe.||
+With your help we successfully pulled them in! But the true battle still awaits us!||With your help we successfully pulled them in! But the true battle still awaits us!,"¡Gracias a tu ayuda, los hemos hundido! ¡Pero la verdadera batalla aún nos aguarda!"||
+It was thanks to Shu! Good luck once you're in the balloon!||It was thanks to Shu! Good luck once you're in the balloon!,¡Fue gracias a Shu! ¡Suerte cuando estés en el globo!||
+You're very powerful in spite of your size. Go sink that thing!||You're very powerful in spite of your size. Go sink that thing!,"Para lo pequeño que eres, tienes mucho poder. Hunde ese armatoste."||
+"Even without you, we did good. My strength, number one!"||"Even without you, we did good. My strength, number one!",Todo salió bien sin tu ayuda. ¡Yo tengo más fuerza!||
+You! Brave one!||You! Brave one!,"¡Tú, oh, valiente!"||
+Are you going up in the balloon? Good luck!||Are you going up in the balloon? Good luck!,¿Vas a subirte al globo? ¡Suerte!||
+Are you going up in the balloon? Good luck!||Are you going up in the balloon? Good luck!,¿Vas a subirte al globo? ¡Suerte!||
+The battle is about to begin! We will follow you!||The battle is about to begin! We will follow you!,¡La batalla está a punto de estallar! ¡Te seguiremos!||
+"So far everything's going according to plan! I wonder, though..."||"So far everything's going according to plan! I wonder, though...","¡Por ahora, todo va a pedir de boca! Pero tengo mis dudas..."||
+You must fight bravely. Be calm at all times.||You must fight bravely. Be calm at all times.,Lucha con valentía. Y mantén siempre la calma.||
+We will be right behind you. You are the key to this battle.||We will be right behind you. You are the key to this battle.,Te cubriremos las espaldas. Eres la clave de esta batalla.||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+The preparations are ready. Get in the balloon and follow the king.||The preparations are ready. Get in the balloon and follow the king.,Los preparativos se han ultimado. Sube al globo y sigue al rey.||
+Be strong. We're counting on you.||Be strong. We're counting on you.,Sé fuerte. Contamos contigo.||
+The wind is strong. Extra careful with the preparations...||The wind is strong. Extra careful with the preparations...,El viento sopla feroz. Mucha atención con los preparativos...||
+One look in your eyes gave me courage. You will do well no matter what!||One look in your eyes gave me courage. You will do well no matter what!,"Una mirada tuya me infundió coraje. ¡Pase lo que pase, darás la talla!"||
+"It may be your first time in a balloon, but leave everything to us."||"It may be your first time in a balloon, but leave everything to us.","Aunque sea tu primer viaje en globo, déjalo todo en nuestras manos."||
+This lukewarm wind... I can't take much more of it. I hope it's over quick!||This lukewarm wind... I can't take much more of it. I hope it's over quick!,Este viento cálido... Ya no lo soporto más. Espero que desaparezca rápido.||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+"This might sound like we're treating you like children, but listen carefully to Lady Zola."||"This might sound like we're treating you like children, but listen carefully to Lady Zola.","Os parecerá que os tratamos como críos, pero prestad mucha atención a Zola."||
+"Oh, it's no good. My legs have been shaking non-stop."||"Oh, it's no good. My legs have been shaking non-stop.",No me gusta un pelo. No han parado de temblarme las piernas.||
+"I want to fight from the balloon too! But I'm just a private, so I don't get to go."||"I want to fight from the balloon too! But I'm just a private, so I don't get to go.",¡Yo también quiero luchar desde el globo! Pero soy un soldado raso y no me lo permiten.||
+I'm going first!||I'm going first!,¡Yo me lanzo primero!||
+You have magic. You can't lose to ancient weapons.||You have magic. You can't lose to ancient weapons.,Posees la magia. Eres invulnerable a las armas ancestrales.||
+"Quickly, follow the king!"||"Quickly, follow the king!","¡Deprisa, sigue al rey!"||
+We will be right behind you. Good luck!||We will be right behind you. Good luck!,Te cubriremos las espaldas. ¡Suerte!||
+That base shall soon be ours. But why do I feel so nervous?||That base shall soon be ours. But why do I feel so nervous?,"Muy pronto, esa base estará en nuestro poder. Pero ¿a qué vienen estos nervios?"||
+The king himself is fighting. We must help him!||The king himself is fighting. We must help him!,El mismísimo rey está batallando. ¡Debemos ayudarlo!||
+Oh how calm Lady Zola appears! So regal...||Oh how calm Lady Zola appears! So regal...,Qué calmada parece la capitán Zola. Tan majestuosa...||
+Let's fight for the sake of our families!||Let's fight for the sake of our families!,¡Luchemos por nuestras familias!||
+When it gets dangerous help us with your magic!||When it gets dangerous help us with your magic!,"Cuando la cosa se ponga fea, ayúdanos con tu magia."||
+What are you doing? Lady Zola is waiting!||What are you doing? Lady Zola is waiting!,¿Qué haces? La capitán Zola aguarda.||
+How unlucky can I get! Today is my birthday!||How unlucky can I get! Today is my birthday!,Pero qué mala suerte. ¡Hoy es mi cumpleaños!||
+I've never felt so nervous before. Good luck!||I've never felt so nervous before. Good luck!,Jamás había sentido tantos nervios. ¡Suerte!||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+It's not over yet.||It's not over yet.,Aún no se ha acabado.||
+"As the head of my kingdom, it is important to celebrate, but..."||"As the head of my kingdom, it is important to celebrate, but...","Como soberano de mi reino, es importante festejarlo, pero..."||
+But where is Nene...||But where is Nene...,Pero ¿dónde está Nené...?||
+Lady Zola! What are you thinking?||Lady Zola! What are you thinking?,"Amada Zola, ¿qué piensas hacer?"||
+Nothing Marumaro. You just keep being lighthearted.||Nothing Marumaro. You just keep being lighthearted.,"Nada, Marumaro. Tú sigue igual de alegre."||
+That reminds me. The king has something he wanted to discuss with you later.||That reminds me. The king has something he wanted to discuss with you later.,Eso me recuerda que el rey quería comentarte un asunto más tarde.||
+Let me know when you're about to leave. Got it?||Let me know when you're about to leave. Got it?,Avísame cuando te vayas. ¿Lo entiendes?||
+How do you like our celebrations? Have you enjoyed the food and conversation?||How do you like our celebrations? Have you enjoyed the food and conversation?,¿Te deleitan nuestros festejos? ¿Has disfrutado de la comida y la conversación?||
+Ready to leave? #Y||Ready to leave? #Y,¿Quieres marcharte? #Y||
+"All right, follow me."||"All right, follow me.","Sígueme, pues."||
+Is that so? Then we'll wait a bit longer.||Is that so? Then we'll wait a bit longer.,"¿De verdad? Entonces, esperaremos un poco más."||
+"Fight, eat, celebrate... Men are so simple."||"Fight, eat, celebrate... Men are so simple.","Luchar, comer, festejar... Qué simples son los hombres."||
+"It was a long, long battle. But we finally destroyed the tsunami vortex."||"It was a long, long battle. But we finally destroyed the tsunami vortex.","Fue una batalla larga, muy larga. Pero finalmente destruimos el vórtice maremoto."||
+"Zola was the most valiant one of all, but I'm not too pleased..."||"Zola was the most valiant one of all, but I'm not too pleased...","Zola fue la más valerosa de todos, pero no es que me agrade mucho..."||
+The men are disappointing. What could they have done without you outsiders?||The men are disappointing. What could they have done without you outsiders?,"Qué decepcionantes son los hombres. ¿Qué habrían hecho sin vosotros, extranjeros?"||
+"If this is the end of all battles, the expense of this celebration isn't bad. If only this were really the end..."||"If this is the end of all battles, the expense of this celebration isn't bad. If only this were really the end...","Si hemos puesto fin a todas las batallas, los gastos de los festejos no me parecen desorbitados. Ojalá no hubiera más guerras..."||
+The expenses last night alone were about half our expected military budget.||The expenses last night alone were about half our expected military budget.,"Con los festejos de anoche, nos hemos gastado la mitad del presupuesto militar."||
+If it hadn't been for you we would have gone bankrupt.||If it hadn't been for you we would have gone bankrupt.,"Si no fuese por ti, nos habríamos ido a la quiebra."||
+I wonder if that puppy went straight back to the little girl.||I wonder if that puppy went straight back to the little girl.,No sé si ese cachorrito volvió con la pequeñaja.||
+You must be bored talking to an old man. Go and talk with the others.||You must be bored talking to an old man. Go and talk with the others.,"Seguro que te aburres charlando con un vejestorio. Anda, habla con los demás."||
+I'm so glad you're safe! You did well to emerge victorious!||I'm so glad you're safe! You did well to emerge victorious!,¡Cuánto me alegro de que estéis a salvo! ¡Habéis salido victoriosos!||
+It was a terrible battle that could have been lost at any moment.||It was a terrible battle that could have been lost at any moment.,Fue una batalla sangrienta que estuvimos a punto de perder.||
+This is a great accomplishment! You should be proud.||This is a great accomplishment! You should be proud.,¡Es toda una hazaña! Estamos muy orgullosos.||
+Jibral can do nothing without Gorgos. Ha ha ha ha!||Jibral can do nothing without Gorgos. Ha ha ha ha!,"Yibral está perdida sin los golgo. ¡Ja, ja, ja!"||
+"Me! Fought with small guy, there!"||"Me! Fought with small guy, there!",¡Yo! Luché con el pequeñajo ese.||
+You! Know me? Fought with you!||You! Know me? Fought with you!,¡Tú! ¿Me conoces? ¡Luché contigo!||
+The kitchen is a whirl of activity.||The kitchen is a whirl of activity.,La cocina es un hervidero.||
+"You're worn out after the battle? Oh, nonsense!"||"You're worn out after the battle? Oh, nonsense!",¿Que la batalla te ha dejado sin fuerzas? ¡Tonterías!||
+"You're young. Eat up, and you'll feel better soon."||"You're young. Eat up, and you'll feel better soon.",Eres joven. Hártate de comer y te recuperarás enseguida.||
+This celebration is for you. Enjoy it at your leisure!||This celebration is for you. Enjoy it at your leisure!,Estos festejos son en tu honor. ¡Que te diviertas!||
+Eat up and feel better!||Eat up and feel better!,¡Hártate de comer y te recuperarás!||
+I'm so glad there weren't any major casualties...||I'm so glad there weren't any major casualties...,Menos mal que no hubo bajas considerables...||
+Our lips are smacking over the good food and we're drunk on the wine of victory!||Our lips are smacking over the good food and we're drunk on the wine of victory!,Nuestro paladar saborea los exquisitos manjares y nos emborrachamos con el vino de la victoria.||
+This is true happiness!||This is true happiness!,¡Esto sí que es vida!||
+This should put an end to all the strange things happening everywhere.||This should put an end to all the strange things happening everywhere.,Esto acabará con todos esos sucesos tan extraños que ocurren en todos lados.||
+It's no exaggeration to say that all our hard work was for this day.||It's no exaggeration to say that all our hard work was for this day.,No exagero al afirmar que todos nuestros sacrificios han dado su fruto hoy.||
+I will never forget fighting alongside the king as long as I live.||I will never forget fighting alongside the king as long as I live.,"Mientras viva, jamás olvidaré que luché al lado del rey."||
+Did you see? When the mother ship went down? I never knew victory would be so thrilling!||Did you see? When the mother ship went down? I never knew victory would be so thrilling!,¿Viste cuando la nave nodriza descendió? No sabía que la victoria fuera tan emocionante.||
+The Land Sharks should stop threatening Talta now. That's good.||The Land Sharks should stop threatening Talta now. That's good.,"Los terraburones dejarán de amenazar Talta. Buenas noticias, al fin."||
+Jibral has been saved. A toast to a magnificent king!||Jibral has been saved. A toast to a magnificent king!,Yibral se ha salvado. ¡Un brindis por el magnánimo rey!||
+This is a victory to commemorate! This will be part of our great history!||This is a victory to commemorate! This will be part of our great history!,¡Una victoria épica que ya ha entrado en nuestra gran historia!||
+Happiness to all our people!||Happiness to all our people!,¡Felicidad para los nuestros!||
+Magic is great but it can be terrifying... You have to be careful to control your strength.||Magic is great but it can be terrifying... You have to be careful to control your strength.,"La magia está muy bien, pero puede resultar aterradora... Debes controlar la fuerza."||
+I can't drink anymore...||I can't drink anymore...,No puedo beber más...||
+"Eat more, drink more, come on!"||"Eat more, drink more, come on!",¡Comed y bebed sin parar!||
+If you hadn't been here we would never have won.||If you hadn't been here we would never have won.,"Si no hubieras venido, jamás habríamos vencido."||
+"Yes, it was electrifying."||"Yes, it was electrifying.","Sí, ha sido una pasada."||
+Our king fighting in such a great battle makes me so very proud of him.||Our king fighting in such a great battle makes me so very proud of him.,Que nuestro rey haya librado tan épica batalla hace que me enorgullezca de él.||
+"Great job! This isn't much, but I want you to have it."||"Great job! This isn't much, but I want you to have it.","¡Buen trabajo! Aunque no es gran cosa, quiero que te lo quedes."||
+Inviting a waitress from Cafe Jibral... The king has style!||Inviting a waitress from Cafe Jibral... The king has style!,Mira que invitar a una camarera del Café Yibral... ¡Qué estilo tiene el rey!||
+A toast to the chief chef as well!||A toast to the chief chef as well!,¡Y un brindis por el gran chef!||
+I ate too much... I feel sick...||I ate too much... I feel sick...,He comido demasiado... Me siento mal...||
+You'll be heroes when you go out in the streets! Well done!||You'll be heroes when you go out in the streets! Well done!,"¡Cuando salgáis a la calle, os tratarán como héroes! ¡Buen trabajo!"||
+A toast to our wonderful king!||A toast to our wonderful king!,¡Un brindis por nuestro ilustre rey!||
+That Cafe Jibral waitress is very cute.||That Cafe Jibral waitress is very cute.,La camarera del Café Yibral es muy guapa.||
+I bet there'll be lots of presents.||I bet there'll be lots of presents.,Seguro que me hacen mogollón de regalos.||
+There's delicious food at every table. I'm getting dizzy from looking at it all.||There's delicious food at every table. I'm getting dizzy from looking at it all.,"Hay platos exquisitos en todas las mesas. Con sólo mirarlos, ya me mareo."||
+"Who is Nene, exactly? Is he a survivor from the ancient world?"||"Who is Nene, exactly? Is he a survivor from the ancient world?",¿Y quién es ese Nené? ¿Un superviviente del mundo ancestral?||
+Of course we can't really go crazy when the king and his ministers are here.||Of course we can't really go crazy when the king and his ministers are here.,"Claro está, no podemos volvernos locos en presencia del rey y sus ministros."||
+"Right now, they are singing about your efforts in the streets!"||"Right now, they are singing about your efforts in the streets!","Justo ahora, cantan vuestras proezas en las calles."||
+It's great food!||It's great food!,¡Una comida riquísima!||
+Cafe Jibral is also known as the hub of information. You can find out many things there.||Cafe Jibral is also known as the hub of information. You can find out many things there.,El Café Yibral es un hervidero de información. Allí te enteras de muchas cosas.||
+The king's stock is going to go up with this battle.||The king's stock is going to go up with this battle.,El rey aumentará sus reservas con esta batalla.||
+I just can't calm down... Is the battle really over?||I just can't calm down... Is the battle really over?,No puedo tranquilizarme... ¿Ha terminado la batalla?||
+"A second ago, I shared a glance with Secretary Shuria. I wonder if she has feelings for me..."||"A second ago, I shared a glance with Secretary Shuria. I wonder if she has feelings for me...","Hace un segundo, he cruzado miraditas con la secretaria Shuria. ¿Sentirá algo por mí?"||
+I thought you were just children! Yet you did it!||I thought you were just children! Yet you did it!,"¡Creía que erais unos críos, pero lo habéis logrado!"||
+You really outdid yourselves! Let's go to Cafe Jibral sometime!||You really outdid yourselves! Let's go to Cafe Jibral sometime!,"¡Os habéis superado! Un día de estos, tenemos que quedar en el Café Yibral."||
+I run Cafe Jibral. Come by sometime.||I run Cafe Jibral. Come by sometime.,Yo llevo el Café Yibral. A ver si os pasáis.||
+I run Cafe Jibral. I wanted to be in on the celebration.||I run Cafe Jibral. I wanted to be in on the celebration.,Llevo el Café Yibral y no quería perderme los festejos.||
+I ran over here from Cafe Jibral! Have a good time.||I ran over here from Cafe Jibral! Have a good time.,¡Vengo corriendo desde el Café Yibral! A pasarlo bien.||
+You fought well. Let's fight together again.||You fought well. Let's fight together again.,Has luchado con vigor. Volvamos a luchar juntos.||
+My portion of the feast... I hope there's some left...||My portion of the feast... I hope there's some left...,Mi parte del banquete... Espero que haya sobrado algo...||
+A battle to be remembered in history!||A battle to be remembered in history!,¡Ha sido una batalla histórica!||
+"The victory was thanks to Captain Zola! And you too, of course!"||"The victory was thanks to Captain Zola! And you too, of course!","¡El triunfo se lo debemos a la capitán Zola! ¡Y a vosotros, claro!"||
+The mechat you brought back is stored in the lab.||The mechat you brought back is stored in the lab.,El mecóptero que trajisteis está en el laboratorio.||
+"But unfortunately the Eternal Engine was damaged, and we're not sure if we can fix it."||"But unfortunately the Eternal Engine was damaged, and we're not sure if we can fix it.","Pero, por desgracia, el reactor eterno se ha averiado y no sabemos si tiene arreglo."||
+"Just relax! With my brains, we'll find a way to repair it!"||"Just relax! With my brains, we'll find a way to repair it!","No te preocupes. Con mi cerebro, seguro que lo arreglamos."||
+It's been a week since I left the lab. Am I funky?||It's been a week since I left the lab. Am I funky?,Hace una semana que salí del laboratorio. ¿Me huelen los alerones?||
+It's been several months since I've seen food like this.||It's been several months since I've seen food like this.,Hace varios meses que no veo una comida así.||
+(burp) I ate too much... I ate three million calories...||(burp) I ate too much... I ate three million calories...,(Burp) He comido demasiado... Tres millones de calorías...||
+Nobody ate as much as me!||Nobody ate as much as me!,¡Nadie ha comido tanto como yo!||
+(burp) I ate too much. What? Three million calories?||(burp) I ate too much. What? Three million calories?,(brrrr) He comido demasiado. ¿Cómo? ¿Tres millones de calorías?||
+I ate three million and ONE calories!||I ate three million and ONE calories!,"¡Pues yo, tres millones y una más!"||
+Who says? I ate the most.||Who says? I ate the most.,¿Quién lo dice? Yo he comido más.||
+"Yeah, I ate three million and TWO calories!"||"Yeah, I ate three million and TWO calories!","¡Sí, tres millones de calorías y dos más!"||
+"Yeah, I ate three million and THREE calories!"||"Yeah, I ate three million and THREE calories!","¡Pues yo, tres millones de calorías y tres más!"||
+"Yeah, I ate three million and FOUR calories!"||"Yeah, I ate three million and FOUR calories!","¡Pues yo, tres millones de calorías y cuatro más!"||
+"Yeah, I ate three million and FIVE calories!"||"Yeah, I ate three million and FIVE calories!","¡Pues yo, tres millones de calorías y cinco más!"||
+"Yeah, I ate three million and SIX calories!"||"Yeah, I ate three million and SIX calories!","¡Pues yo, tres millones de calorías y seis más!"||
+"Yeah, I ate three million and SEVEN calories!"||"Yeah, I ate three million and SEVEN calories!","¡Pues yo, tres millones de calorías y siete más!"||
+"Yeah, I ate three million and EIGHT calories!"||"Yeah, I ate three million and EIGHT calories!","¡Pues yo, tres millones de calorías y ocho más!"||
+"Yeah, I ate three million and NINE calories!"||"Yeah, I ate three million and NINE calories!","¡Pues yo, tres millones de calorías y nueve más!"||
+"Yeah, I ate three million and..."||"Yeah, I ate three million and...","Pues yo, tres millones de calorías y..."||
+"Hey, how many was it? I forgot..."||"Hey, how many was it? I forgot...",¿Cuántas iban? Se me ha olvidado...||
+"How embarrassing... Here, take this!"||"How embarrassing... Here, take this!","Qué bochorno... ¡Anda, toma!"||
+Zzz...||Zzz...,Zzz...||
+I drank too much.||I drank too much.,He bebido demasiado.||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+We don't know what dangers await us in the lands to the north.||We don't know what dangers await us in the lands to the north.,No sabemos qué peligros nos acecharán en las tierras del norte.||
+Be careful.||Be careful.,Mucho cuidado.||
+We're counting on you. We're waiting for good news.||We're counting on you. We're waiting for good news.,Contamos contigo. Quedamos a la espera de buenas noticias.||
+"While Lady Zola is away, the king himself is expected to lead the Blademasters."||"While Lady Zola is away, the king himself is expected to lead the Blademasters.","En ausencia de la capitán Zola, el rey en persona capitaneará a los Maestros de espada."||
+"Jibral, which has grown so prosperous, must now aid other lands."||"Jibral, which has grown so prosperous, must now aid other lands.","Yibral, que vive en la prosperidad, debe ayudar a otros reinos."||
+Visit again the places you once knew. There may be something new there.||Visit again the places you once knew. There may be something new there.,Visita los lugares que ya conoces. Quizá haya algo nuevo.||
+My superior has been a little gentler since that purple cloud appeared.||My superior has been a little gentler since that purple cloud appeared.,Mi superior se porta un poco mejor desde que apareció esa nube púrpura.||
+What? Even the guy next to me has a heart to love Jibral.||What? Even the guy next to me has a heart to love Jibral.,¿Cómo? Hasta el que está a mi lado siente debilidad por Yibral.||
+Not used||Not used,Sin usar||
+"Hey, brother! Visit the Alumaru Village too."||"Hey, brother! Visit the Alumaru Village too.","¡Oye, hermano! Visita la aldea Alumaru."||
+We Gorgos are a hundred times stronger than humans.||We Gorgos are a hundred times stronger than humans.,Los golgo somos cien veces más fuertes que los humanos.||
+This is the mechat you brought back. It's still broken and won't work.||This is the mechat you brought back. It's still broken and won't work.,"Es el mecóptero que trajisteis, pero sigue averiado y no funciona."||
+We have to get more parts to repair it. But we'll fix your mechat!||We have to get more parts to repair it. But we'll fix your mechat!,"Necesitamos más piezas, pero arreglaremos el mecóptero."||
+The mechat's Eternal Engine is still intact. It just won't run...||The mechat's Eternal Engine is still intact. It just won't run...,"El reactor eterno del mecóptero está en buen estado, pero no arranca..."||
+"Well, this is up to the head scientist. He will find some way to repair it."||"Well, this is up to the head scientist. He will find some way to repair it.","En fin, que lo arregle el científico jefe. Seguro que encuentra la solución."||
+"This is the mechat you brought back. It looks great, but it just won't work."||"This is the mechat you brought back. It looks great, but it just won't work.","Aquí está el mecóptero que trajisteis. Tiene buena pinta, pero no funciona."||
+"The Eternal Engine is intact, but..."||"The Eternal Engine is intact, but...","El reactor eterno está en buen estado, pero..."||
+There are too many unknowns in ancient technology.||There are too many unknowns in ancient technology.,La tecnología ancestral encierra demasiados interrogantes.||
+We're thinking about how to repair the mechat. We're going to make sure it flies again.||We're thinking about how to repair the mechat. We're going to make sure it flies again.,Intentamos reparar el mecóptero porque queremos que vuelva a volar.||
+Ancient civilization is very complex.||Ancient civilization is very complex.,La civilización ancestral es muy compleja.||
+There's nothing we can't solve with research! I think...||There's nothing we can't solve with research! I think...,"¡Si investigamos, no hay misterio que se nos resista! O eso creo..."||
+It's a mystery! We're studying the mechat's mysteries!||It's a mystery! We're studying the mechat's mysteries!,¡Menudo misterio! Estamos estudiando los secretos del mecóptero.||
+"Oh yeah, and don't forget to collect any mysterious items you find."||"Oh yeah, and don't forget to collect any mysterious items you find.","Ah, sí. Y no olvides recoger los objetos misteriosos que encuentres."||
+"I am the chief chef here. The food at Jibral Castle is good, of course it is!"||"I am the chief chef here. The food at Jibral Castle is good, of course it is!","Soy el gran chef. La comida del castillo Yibral está exquisita, no faltaba más."||
+I am the chief chef's first assistant. I can cook as perfectly as my master.||I am the chief chef's first assistant. I can cook as perfectly as my master.,Soy el primer pinche del gran chef y cocino igual de bien que mi maestro.||
+I am the chief chef's second assistant. We all seem to resemble him eventually.||I am the chief chef's second assistant. We all seem to resemble him eventually.,"Soy el segundo pinche del gran chef. Al final, todos acabamos pareciéndonos a él."||
+I'm just an assistant here. But even I ended up looking like the chief chef.||I'm just an assistant here. But even I ended up looking like the chief chef.,"Aunque soy un mero pinche, hasta yo he acabado pareciéndome al gran chef."||
+"The longer they work here, the more they resemble him. I try to avoid here as much as possible."||"The longer they work here, the more they resemble him. I try to avoid here as much as possible.","Cuanto más trabajan aquí, más se parecen a él. Si puedo evitarlo, prefiero no venir."||
+The king might embark on another expedition. He has the face of someone wanting to travel.||The king might embark on another expedition. He has the face of someone wanting to travel.,El rey quizá se embarque en otra expedición. Tiene cara de querer viajar.||
+The king is naive. We must get more taxes from the people in future.||The king is naive. We must get more taxes from the people in future.,"Qué ingenuo es el rey. En el futuro, debemos recaudar más impuestos."||
+What have we here? You have brought safety to Jibral.||What have we here? You have brought safety to Jibral.,¿Qué tenemos aquí? Habéis restablecido la seguridad en Yibral.||
+You have given us this peace.||You have given us this peace.,Nos habéis brindado esta paz.||
+There have been no guests of late... I wonder what happened.||There have been no guests of late... I wonder what happened.,"Últimamente, no viene nadie... ¿Qué habrá pasado?"||
+"You're leaving? Well, I appreciate everything. "||"You're leaving? Well, I appreciate everything. ","¿Te marchas ya? Bueno, gracias por todo. "||
+Come again any time!||Come again any time!,¡Vuelve cuando quieras!||
+I think I'm going to take the next Blademaster test.||I think I'm going to take the next Blademaster test.,Creo que intentaré unirme a los Maestros de espada.||
+There are ancient relics all over the world. But hardly anyone has ever seen them.||There are ancient relics all over the world. But hardly anyone has ever seen them.,"Hay reliquias ancestrales por todos los rincones del mundo, pero casi nadie las ha visto."||
+I shall protect this kingdom!||I shall protect this kingdom!,¡Protegeré este reino!||
+"No matter what happens, I'm sure you will find a way."||"No matter what happens, I'm sure you will find a way.","Pase lo que pase, seguro que encuentras una solución."||
+We are soldiers because we fight!||We are soldiers because we fight!,¡Somos soldados porque luchamos!||
+We will always talk about how you fought in that battle.||We will always talk about how you fought in that battle.,Siempre recordaremos cómo luchaste en esa batalla.||
+"It's Master Shu and his friends! Please, look about the garden at your leisure."||"It's Master Shu and his friends! Please, look about the garden at your leisure.",¡El amo Shu y sus amigos! Pasead todo lo que queráis por el jardín.||
+Please take your time.||Please take your time.,No tengáis prisa.||
+We'll be on guard while Lady Zola is away.||We'll be on guard while Lady Zola is away.,Haremos guardia mientras Zola esté ausente.||
+This is Minister Jonveeno's quarters.||This is Minister Jonveeno's quarters.,Este es el gabinete del ministro Yonvino.||
+The central garden is ahead.||The central garden is ahead.,El jardín central está más adelante.||
+The central garden is ahead.||The central garden is ahead.,El jardín central está más adelante.||
+This is the senior minister's quarters.||This is the senior minister's quarters.,Este es el gabinete del gran ministro.||
+This is the Blademasters' waiting quarters.||This is the Blademasters' waiting quarters.,Esta es la antesala para los Maestros de espada.||
+You can hear all sorts of gossip if you go Cafe Jibral.||You can hear all sorts of gossip if you go Cafe Jibral.,Te enterarías de muchos rumores si fueras al Café Yibral.||
+This is the throne room.||This is the throne room.,Este es el salón del trono.||
+This is the throne room.||This is the throne room.,Este es el salón del trono.||
+This is the throne room.||This is the throne room.,Este es el salón del trono.||
+This is the throne room.||This is the throne room.,Este es el salón del trono.||
+Please pass!||Please pass!,¡Adelante!||
+This is the lounge.||This is the lounge.,La sala de estar.||
+The king is here a lot lately. He seems a little lonely...||The king is here a lot lately. He seems a little lonely...,El rey se pasa las horas muertas aquí. Se siente un poco solo...||
+The Gorgo beastfolk are very kind-hearted.||The Gorgo beastfolk are very kind-hearted.,Las bestias golgo tienen muy buen corazón.||
+The soldiers gathered here are really all good-for-nothings.||The soldiers gathered here are really all good-for-nothings.,Estos soldados no sirven absolutamente para nada.||
+I decided to quit being a soldier. It wasn't for me.||I decided to quit being a soldier. It wasn't for me.,He decidido dejar el ejército. No era para mí.||
+"I could take a brief rest, I guess."||"I could take a brief rest, I guess.",Supongo que podría descansar un ratito.||
+"The king is a good king, but... It hurts when he is too hard on us."||"The king is a good king, but... It hurts when he is too hard on us.","El rey se porta bien, pero... me duele cuando nos trata con mano dura."||
+"I'm glad I got to be a Jibral soldier, but reality is different than the dream."||"I'm glad I got to be a Jibral soldier, but reality is different than the dream.","Me alegro de haberme convertido en soldado de Yibral, pero los sueños difieren de la realidad."||
+You can go down to the Great Hall through this door.||You can go down to the Great Hall through this door.,"Por esta puerta, se llega al salón regio."||
+You can go down to the Great Hall through this door.||You can go down to the Great Hall through this door.,"Por esta puerta, se llega al salón regio."||
+How are your adventures going?||How are your adventures going?,"Y esas aventuras, ¿cómo van?"||
+The king is away now.||The king is away now.,El rey se ha ausentado.||
+The door to the basement lab is over there.||The door to the basement lab is over there.,La puerta del laboratorio del sótano está ahí.||
+This is the soldiers' waiting quarters.||This is the soldiers' waiting quarters.,Esta es la antesala para los soldados.||
+Are you sightseeing? The lab is up ahead.||Are you sightseeing? The lab is up ahead.,¿Estamos de turismo o qué? El laboratorio está más adelante.||
+Are your travels going well? You can come back for a rest any time.||Are your travels going well? You can come back for a rest any time.,¿Cómo van esos viajes? Venid a descansar siempre que queráis.||
+But then there's Kluke...||But then there's Kluke...,Pero también está Kluke...||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+"Had I not the duty to protect my kingdom, I would rather be going with you."||"Had I not the duty to protect my kingdom, I would rather be going with you.","Si no tuviera el deber de proteger mi reino, me marcharía con vosotros."||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+The king is in his quarters.||The king is in his quarters.,El rey está en sus aposentos.||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Hurry and see the head scientist in the lab. I'm counting on you.||Hurry and see the head scientist in the lab. I'm counting on you.,"Corred, id al laboratorio a ver al científico jefe. Confío en vosotros."||
+"Have you seen the head scientist, then? Then hurry to Noluta."||"Have you seen the head scientist, then? Then hurry to Noluta.",¿Habéis visto al científico jefe? Pues id corriendo a Noluta.||
+Hurry and get that ancient machine started.||Hurry and get that ancient machine started.,"Deprisa, a ver si arranca esa máquina ancestral."||
+"Ah, you saved that frozen village, I see. That was very courageous."||"Ah, you saved that frozen village, I see. That was very courageous.","Ah, salvasteis esa aldea congelada. Un acto heroico."||
+Yet more good news. I heard that the people from Talta returned home safely.||Yet more good news. I heard that the people from Talta returned home safely.,Y otra buena noticia. Los aldeanos de Talta llegaron a casa sanos y salvos.||
+The ancient machine became an azure sentinel? The Ancients' ideas were incredible!||The ancient machine became an azure sentinel? The Ancients' ideas were incredible!,¿Que la máquina ancestral era un centinela azur? ¡Esos ancestrales tenían unas ideas increíbles!||
+How splendid to see all five of you like this.||How splendid to see all five of you like this.,Cómo me alegra veros a los cinco así.||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+This is the king's quarters.||This is the king's quarters.,Los aposentos reales.||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Where are you going?||Where are you going?,¿Adónde vais?||
+"You haven't suddenly lost your nerve, have you?"||"You haven't suddenly lost your nerve, have you?",¿No habréis perdido el coraje de repente?||
+"Jiro! And Shu and everyone else, too! Are you going home now?"||"Jiro! And Shu and everyone else, too! Are you going home now?","¡Yiro, Shu y todos los demás! ¿Volvéis a casa?"||
+"The truth is, Chief Copos is visiting important people here to get aid for Talta."||"The truth is, Chief Copos is visiting important people here to get aid for Talta.",El jefe Kopos ha venido a hablar con gente influyente para que ayuden a Talta.||
+Can you help him? The quarters for the king and his ministers are upstairs.||Can you help him? The quarters for the king and his ministers are upstairs.,¿Podéis ayudarle? Los aposentos del rey y de los ministros están arriba.||
+"Ah, that's right. We want to see the king again, too."||"Ah, that's right. We want to see the king again, too.",De acuerdo. Nosotros también queremos volver a ver al rey.||
+Hey!||Hey!,¡Oye!||
+There's an important conference in the throne room now. You can't just walk in there!||There's an important conference in the throne room now. You can't just walk in there!,Hay una reunión importantísima en el salón del trono y no podéis entrar así como así.||
+It's you! You're the dog-lover!||It's you! You're the dog-lover!,¡Tú! ¡El hombre que adora a los perros!||
+"Ho ho ho, you finally got here? I'm actually also a minister here."||"Ho ho ho, you finally got here? I'm actually also a minister here.","Ja, ja, ja. ¿Por fin habéis llegado? También soy ministro."||
+Was there something you wanted to ask?||Was there something you wanted to ask?,¿Queríais pedirme algo?||
+Please help the people of Talta! The village needs to be livable again...||Please help the people of Talta! The village needs to be livable again...,¡Ayudad al pueblo de Talta! Hay que reconstruir la aldea...||
+"Ah, your first concern is the village? What a kind attitude. Let me propose it to the other ministers."||"Ah, your first concern is the village? What a kind attitude. Let me propose it to the other ministers.",¿La aldea es lo que más os preocupa? Una actitud muy bondadosa. Lo consultaré con los demás ministros.||
+And you must want to meet with the king. Go upstairs to the throne room and see him.||And you must want to meet with the king. Go upstairs to the throne room and see him.,Y seguro que queréis una audiencia con el rey. Subid al salón del trono y hablad con él.||
+I will show you to the throne room.||I will show you to the throne room.,Os llevaré al salón del trono.||
+Not used||Not used,Sin usar||
+We now know a disaster will occur each year. ||We now know a disaster will occur each year. ,Ahora sabemos que todos los años ocurrirá una desgracia. ||
+"In fact, various disasters happen in other towns and villages as well."||"In fact, various disasters happen in other towns and villages as well.","De hecho, varias catástrofes han azotado a otras ciudades y aldeas."||
+"After what you told me, I believe these disasters and the assault on Talta village are the work of Nene."||"After what you told me, I believe these disasters and the assault on Talta village are the work of Nene.","Después de lo dicho, creo que esas desgracias y el ataque a la aldea de Talta son obra de Nené."||
+We were traveling the world to conduct research on the various yearly disasters.||We were traveling the world to conduct research on the various yearly disasters.,Viajábamos por todo el mundo para investigar esas catástrofes anuales.||
+"Actually, we were on our way home when we came across you."||"Actually, we were on our way home when we came across you.","De hecho, nos dirigíamos a casa cuando nos hemos encontrado."||
+"Lady Zola, you'll fight with us, right?"||"Lady Zola, you'll fight with us, right?","Zola, lucharás a nuestro lado, ¿verdad?"||
+What'd you expect?||What'd you expect?,¿Qué esperabas?||
+Whoa! She's so direct.||Whoa! She's so direct.,¡Vaya! No se anda con rodeos.||
+"But there's more to Lady Zola, Shu."||"But there's more to Lady Zola, Shu.","Pero Zola tiene algo más, Shu."||
+Huh?||Huh?,¿Qué?||
+Lady Zola is also cute when she smiles!||Lady Zola is also cute when she smiles!,También está preciosa cuando sonríe.||
+"We will destroy the tsunami vortex with this Eternal Engine. Once we do that, we should see the mother ship."||"We will destroy the tsunami vortex with this Eternal Engine. Once we do that, we should see the mother ship.","Destruiremos el vórtice maremoto con este reactor eterno. Cuando lo hagamos, veremos la nave nodriza."||
+Awesome...||Awesome...,Alucinante...||
+"But after that, how will we fight the mother ship?"||"But after that, how will we fight the mother ship?",¿Y cómo nos enfrentaremos a la nave nodriza?||
+"Well, we'll see."||"Well, we'll see.",Ya veremos.||
+The research is coming along. It's just a matter of time.||The research is coming along. It's just a matter of time.,La investigación va viento en popa. Es cuestión de tiempo.||
+I'm returning to my quarters. Will you join me? #Y||I'm returning to my quarters. Will you join me? #Y,Me voy a mis aposentos. ¿Me acompañas? #Y||
+Hey! Maro wanna go to Lady Zola's quarters!||Hey! Maro wanna go to Lady Zola's quarters!,"¡Eh, que Marumaro quiere ir a los aposentos de nuestra amada Zola!"||
+"Shu, we were invited here but you want to leave already?"||"Shu, we were invited here but you want to leave already?","Shu, nos habían invitado. ¿Ya quieres irte?"||
+Let's at least talk to Zola before we leave.||Let's at least talk to Zola before we leave.,"Por lo menos, hablemos con Zola antes de marcharnos."||
+"The king's calling for us, not the time to go that way!"||"The king's calling for us, not the time to go that way!","No es momento de irse por ahí, que el rey nos llama."||
+Not used||Not used,Sin usar||
+This is our chance to talk with Lady Zola! Let Maro stay up here a little longer!||This is our chance to talk with Lady Zola! Let Maro stay up here a little longer!,¡Es nuestra oportunidad de hablar con la amada Zola! ¡Deja que Marumaro se quede un poco más!||
+Not used||Not used,Sin usar||
+Doesn't this dog belong to Shifa?||Doesn't this dog belong to Shifa?,¿Este perro no es de Shifa?||
+Why is it here?||Why is it here?,¿Qué hace aquí?||
+Shifa is probably worried about... But it should be safe with the senior minister.||Shifa is probably worried about... But it should be safe with the senior minister.,"Aunque Shifa lo andará buscando, estará a salvo con el gran ministro."||
+Hey! It's that dog!||Hey! It's that dog!,¡Es ese perro!||
+That's the dog Shifa was looking for! It was here all along?||That's the dog Shifa was looking for! It was here all along?,Es el perro que buscaba Shifa. ¿Siempre ha estado aquí?||
+I'm so relieved. It should be safe with the senior minister.||I'm so relieved. It should be safe with the senior minister.,Qué peso me he quitado de encima. Estará a salvo con el gran anciano.||
+"No, no! You can't! You can't come in now!"||"No, no! You can't! You can't come in now!","¡No, no! ¡Que no se puede! ¡Ahora no se puede entrar!"||
+Go see the king first. I'm very busy right now!||Go see the king first. I'm very busy right now!,"Primero, hablad con el rey. ¡Yo estoy hasta arriba de trabajo!"||
+Oh! How good to see you again! Are your travels still going well?||Oh! How good to see you again! Are your travels still going well?,Cuánto me alegro de volver a veros. ¿Llegan a buen puerto esos viajes?||
+"Yeah, couldn't be better! But, there's something we need your help with."||"Yeah, couldn't be better! But, there's something we need your help with.","Mejor, imposible. Pero necesitamos que nos ayudes."||
+Tell me whatever you need.||Tell me whatever you need.,Pedid lo que necesitéis.||
+The village of Noluta is frozen by an ancient machine.||The village of Noluta is frozen by an ancient machine.,Una máquina ancestral ha congelado la aldea Noluta.||
+The people frozen there are still alive! Please tell us how to help them.||The people frozen there are still alive! Please tell us how to help them.,Los aldeanos congelados siguen vivos. Dinos cómo podemos ayudarlos.||
+I am very curious about that ancient machine. We have been studying it downstairs for many years now.||I am very curious about that ancient machine. We have been studying it downstairs for many years now.,Siento mucha curiosidad por esa máquina ancestral. La analizamos desde hace muchos años.||
+I've been told we are close to deciphering its code. Your information may clear things up.||I've been told we are close to deciphering its code. Your information may clear things up.,Estamos a punto de descifrar el código y vuestra información podría facilitar las cosas.||
+"Thank you, King Jibral!"||"Thank you, King Jibral!","¡Gracias, rey Yibral!"||
+But what happened to Zola? She's nowhere to be seen...||But what happened to Zola? She's nowhere to be seen...,Pero ¿dónde está Zola? No la veo por ninguna parte...||
+We were separated from Zola at Nene's base... But I'm sure she's okay.||We were separated from Zola at Nene's base... But I'm sure she's okay.,Nos separamos de Zola en la base de Nené... pero seguro que está a salvo.||
+"I see... You're right. We'll just have to trust that she'll return, then."||"I see... You're right. We'll just have to trust that she'll return, then.",Ya veo... Es verdad. Esperemos que vuelva pronto.||
+"Oh ho, the machine that froze the village? We were just doing research on that."||"Oh ho, the machine that froze the village? We were just doing research on that.",¿La máquina que congeló la aldea? Estábamos analizándola.||
+My brainpower has finally solved the mystery of the password for melting the ice.||My brainpower has finally solved the mystery of the password for melting the ice.,"Gracias a mi intelecto, hemos resuelto el misterio de la contraseña para derretir el hielo."||
+A password? What's that?||A password? What's that?,¿Una contraseña? ¿Qué es eso?||
+"Simply put, it's like a spell. You can use magic, right?"||"Simply put, it's like a spell. You can use magic, right?","Para que te enteres, es como un conjuro. Sabes usar la magia, ¿no?"||
+"So you should be able to use this, then. Ready? I'll only say it once."||"So you should be able to use this, then. Ready? I'll only say it once.","Entonces, podrás usarlo. ¿Listos? Sólo lo diré una vez."||
+Kirkarkla Aynayangian Modolo Moday Birol Mahayoco Shin.||Kirkarkla Aynayangian Modolo Moday Birol Mahayoco Shin.,Kirkarkla Aynayangian Modolo Moday Birol Mahayoco Shin.||
+"Okay, I've got it!"||"Okay, I've got it!","¡Vale, lo tengo!"||
+"Oh-ho-ho! Young folks have such great memories, no? Go back to the village and test it out, then."||"Oh-ho-ho! Young folks have such great memories, no? Go back to the village and test it out, then.","Ja, ja, ja. Qué memoria tenéis los jóvenes, ¿no? Ahora, regresad a la aldea y probadla."||
+Got: Password!||Got: Password!,Has obtenido la contraseña||
+I am the head scientist here. My field is all the world's mysteries.||I am the head scientist here. My field is all the world's mysteries.,Soy el científico jefe y desentraño los misterios del mundo.||
+Our duty is to study those mysteries. Is there a mystery that bothers you?||Our duty is to study those mysteries. Is there a mystery that bothers you?,Nuestro deber: estudiar esos misterios. ¿Acaso te inquieta alguno?||
+"Speaking of mysteries, that item we got at the mural village is a mystery for sure..."||"Speaking of mysteries, that item we got at the mural village is a mystery for sure...","Hablando de misterios, ese objeto de la aldea de los Murales sí que es misterioso..."||
+"Show it to me, then."||"Show it to me, then.",Enséñamelo.||
+You handed him the $C2<$I376>.||You handed him the $C2<$I376>.,Le has dado la $C2<$I376>.||
+"Oh, I see. This part is used in ancient advanced technology."||"Oh, I see. This part is used in ancient advanced technology.",Ya veo. Esta pieza se empleaba en la tecnología ancestral avanzada.||
+"It was so powerful it was split into three parts: alpha, beta and gamma."||"It was so powerful it was split into three parts: alpha, beta and gamma.","Era tan poderosa que se dividió en tres: Alfa, Beta y Gamma."||
+"When you have them all, I might be able to put them together."||"When you have them all, I might be able to put them together.","Cuando las reunáis todas, quizá pueda ensamblarlas."||
+He returns the $C2<$I376>.||He returns the $C2<$I376>.,Te devuelve la $C2<$I376>.||
+"I am very patient, so come back whenever you find a mystery."||"I am very patient, so come back whenever you find a mystery.",Tengo mucha paciencia. Volved por aquí si encontráis un objeto misterioso.||
+Hang on a bit!||Hang on a bit!,¡Un momento!||
+I totally forgot to tell you! Zola is waiting in the back room.||I totally forgot to tell you! Zola is waiting in the back room.,¡Se me había olvidado! Zola aguarda en la habitación de atrás.||
+Mysteries! I smell a good mystery!||Mysteries! I smell a good mystery!,¡Misterios! ¡Me huelo un misterio de los buenos!||
+"Sir, I think these three mystery items are the common parts."||"Sir, I think these three mystery items are the common parts.","Señor, creo que estos tres objetos misteriosos son las piezas comunes."||
+Let me see...||Let me see...,Veamos...||
+Mysteries! I smell a good mystery!||Mysteries! I smell a good mystery!,¡Misterios! ¡Me huelo un misterio de los buenos!||
+"Sir, we found some mysterious items."||"Sir, we found some mysterious items.","Señor, hemos hallado varios objetos misteriosos."||
+What? You brought me six?! Let me see them!||What? You brought me six?! Let me see them!,¿Cómo? ¿Seis? ¡A verlos!||
+You handed him the $C2<Unknown Item>||You handed him the $C2<Unknown Item>,Le has dado tu $C2<objeto misterioso>||
+Success! The mysterious item you brought us is actually this!||Success! The mysterious item you brought us is actually this!,¡Eureka! ¡El objeto misterioso es esto!||
+Be careful. This is a part of advanced technology that destroyed the Ancients.||Be careful. This is a part of advanced technology that destroyed the Ancients.,Con cuidado. Es una pieza de tecnología avanzada que destruyó a los ancestrales.||
+Got: $I327!||Got: $I327!,Has obtenido la $I327||
+Got: $I344!||Got: $I344!,Has obtenido el $I344||
+Hmm. It appears you don't have all the mysterious parts.||Hmm. It appears you don't have all the mysterious parts.,"Mmm. Según parece, no tienes todas las piezas misteriosas."||
+Mysteries still await you somewhere in the world.||Mysteries still await you somewhere in the world.,Los objetos misteriosos siguen ocultos en algún rincón del mundo.||
+This might be the end of the world's mysteries. You've done a great job!||This might be the end of the world's mysteries. You've done a great job!,Podría significar el fin de los misterios. ¡Habéis hecho un trabajo excelente!||
+You kids have brought me great joy! I think I will do some relaxing research for a change.||You kids have brought me great joy! I think I will do some relaxing research for a change.,¡Qué alegría me dais! Me dedicaré a investigar técnicas de relajación para variar.||
+Jibral Castle has been in use since ancient times. Even children must show respect.||Jibral Castle has been in use since ancient times. Even children must show respect.,El castillo Yibral se remonta a tiempos ancestrales. Hasta los niños deben mostrarle respeto.||
+See how clean the floors are in the throne room? Tradition has it that cleaning the floor was a punishment.||See how clean the floors are in the throne room? Tradition has it that cleaning the floor was a punishment.,"¿Ves lo limpio que está el suelo del salón del trono? Según la tradición, te ordenaban limpiarlo como castigo."||
+"We idolize the king. He may be young, but he is a great leader."||"We idolize the king. He may be young, but he is a great leader.","Idolatramos al rey. Es joven, sí, pero nos gobierna bien."||
+"I can't talk about it in the open, but there's a terrible plan afoot in Jibral."||"I can't talk about it in the open, but there's a terrible plan afoot in Jibral.","No puedo airearlo mucho, pero un terrible plan se ha puesto en marcha en Yibral."||
+The king cares very deeply about the abnormal occurrences happening here and there.||The king cares very deeply about the abnormal occurrences happening here and there.,El rey está muy consternado por los sucesos anormales acaecidos aquí y allá.||
+"No, we're not bored. Although all we do is stand here..."||"No, we're not bored. Although all we do is stand here...","No estamos aburridos, aunque parecemos estatuas aquí parados..."||
+Don't slip as you run around! This floor is very slippery.||Don't slip as you run around! This floor is very slippery.,"¡Cuidado, no resbaléis! El suelo está muy resbaladizo."||
+Guests from Talta! The king awaits you.||Guests from Talta! The king awaits you.,"Invitados de Talta, el rey aguarda."||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+Not used||Not used,Sin usar||
+"Oh, it's the lively children! What are you doing here?"||"Oh, it's the lively children! What are you doing here?",Los niños vivarachos. ¿Qué hacéis aquí?||
+You're the dog-lover! What about you? What are you doing here in the castle?||You're the dog-lover! What about you? What are you doing here in the castle?,¡El que adora a los perros! Pero ¿qué haces en el castillo?||
+"Hey, how rude you are! This person is a grand minister of Jibral."||"Hey, how rude you are! This person is a grand minister of Jibral.",¡Pero qué poca vergüenza! Esta persona es un gran ministro de Yibral.||
+"It's okay, it's okay. They can't change just because the old man has status now."||"It's okay, it's okay. They can't change just because the old man has status now.",No pasa nada. No van a cambiar ahora sólo porque el anciano sea un pez gordo.||
+"You're a minister? Can you do anything about Talta Village, then?"||"You're a minister? Can you do anything about Talta Village, then?","¿Eres ministro? Entonces, ¿puedes ayudar a la aldea de Talta?"||
+"I have seen the reports on Talta, yes. It will take some time, but I will not let anything bad happen."||"I have seen the reports on Talta, yes. It will take some time, but I will not let anything bad happen.","Estoy al corriente de la situación, sí. Tardaremos tiempo, pero no permitiré que ocurra ninguna desgracia en Talta."||
+Please leave it to me and be on your way.||Please leave it to me and be on your way.,Dejadlo en mi mano y marchad.||
+You there! Don't you have business in the basement lab?||You there! Don't you have business in the basement lab?,¡Oye! ¿No tienes asuntos pendientes en el laboratorio del sótano?||
+The entrance to the basement is the door on the left in the Great Hall.||The entrance to the basement is the door on the left in the Great Hall.,"Al sótano, se baja por la puerta de la izquierda del salón regio."||
+"If you have business in the lab, use the left-hand door up by the stairs."||"If you have business in the lab, use the left-hand door up by the stairs.","Si tienes que ir al laboratorio, abre la puerta que hay a la izquierda de la escalera."||
+"When you go back, say hello to that girl."||"When you go back, say hello to that girl.","A la vuelta, saluda a esa chica."||
+There is a strange plant growing in the central garden. Its fruits are like capsules!||There is a strange plant growing in the central garden. Its fruits are like capsules!,Ha crecido una extraña planta en el jardín central. ¡Sus frutos parecen cápsulas!||
+"It seems to have been made by the Ancients||"It seems to have been made by the Ancients,"Según parece||
+Zola! Zola!||Zola! Zola!,¡Zola! ¡Zola!||
+Bow to the king!||Bow to the king!,¡Inclinaos ante el rey!||
+Nene! Never!||Nene! Never!,"¡Nené, jamás!"||
+Our mechat is still being researched.||Our mechat is still being researched.,Seguimos investigando el mecóptero.||
+It seems we shouldn't have tried to use those ruined parts.||It seems we shouldn't have tried to use those ruined parts.,"Según parece, hicimos mal en aprovechar esas piezas destruidas."||
+"Oh, it's you. This mechat still doesn't work."||"Oh, it's you. This mechat still doesn't work.","Vaya, eres tú. El mecóptero sigue sin funcionar."||
+"If Lady Zola stole a working mechat, we wouldn't need to do these repairs."||"If Lady Zola stole a working mechat, we wouldn't need to do these repairs.","Si Zola robara un mecóptero nuevo, no tendríamos que reparar este."||
+How is the mechat that Lady Zola stole? Our repairs are coming along too.||How is the mechat that Lady Zola stole? Our repairs are coming along too.,¿Cómo va el mecóptero que robó Zola? Nosotros hemos avanzado con las reparaciones.||
+"Near as I can tell, it should be ready to fly in about five years."||"Near as I can tell, it should be ready to fly in about five years.","A este ritmo, estará listo para volar dentro de cinco años."||
+Zola's bath... It's already filled.||Zola's bath... It's already filled.,La bañera de Zola... Ya está llena.||
+Zola's towel... It smells nice.||Zola's towel... It smells nice.,La toalla de Zola... Huele bien.||
+It's lined with cosmetics. It smells... very posh.||It's lined with cosmetics. It smells... very posh.,Aquí están los cosméticos. Huele... a lujo.||
