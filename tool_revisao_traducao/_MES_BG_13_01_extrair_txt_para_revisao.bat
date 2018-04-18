@@ -1,4 +1,4 @@
-java -cp ..\tools\tool bluedragon.CompararTextos "..\arquivos-originais-es" "..\arquivos-originais-us" "..\arquivos-traduzidos" "mes_bg13_01" 
+java -cp ..\tools\tool bluedragon.ExtrairTextoTabelaSemTratarRepeticao "..\arquivos-originais-es" "..\arquivos-originais-us" "..\arquivos-traduzidos" "12" "mes_bg13_01" 
 pause
 
 
