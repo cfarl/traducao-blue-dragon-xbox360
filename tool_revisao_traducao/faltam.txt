@@ -1,6 +1,0 @@
-ItWd_us.u16
-
-mgc_dic_us.u16
-
-SkWd_new_us.u16
-
