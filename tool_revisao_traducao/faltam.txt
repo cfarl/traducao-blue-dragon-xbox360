@@ -4,4 +4,3 @@ mgc_dic_us.u16
 
 SkWd_new_us.u16
 
-SYSTEMMES_us.u16
