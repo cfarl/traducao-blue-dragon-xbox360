@@ -1,3 +1,4 @@
-java -cp ..\tools\tool bluedragon.ImportarTextoTabela "..\arquivos-originais-es" "..\arquivos-originais-us" "..\arquivos-traduzidos" ".\extraido_revisao.txt" "2,0" "ItWd"
+java -cp ..\tools\tool bluedragon.ImportarTextoSomenteTraducao "..\arquivos-traduzidos\ItWd_us.u16" ".\extraido_revisao.txt" "2" 
+
 pause
 
