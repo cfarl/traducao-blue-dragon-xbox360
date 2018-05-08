@@ -1,3 +1,0 @@
-java -cp ..\tools\tool bluedragon.ExtrairTextoTabela "..\arquivos-originais-es" "..\arquivos-originais-us" "..\arquivos-traduzidos" "2" "cfg" "cmn" "cmp" "dia" "eqp" "itm" "L_sv" "mec" "mgc_str" "mgcg" "mgm" "rst" "rvr" "shp_jwl" "shp" "shw" "sim" "skl" "sta" "svl" "top" "wa" "wrm" "wrp_s"
-pause
-
