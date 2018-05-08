@@ -1,2 +1,1 @@
-java -cp ..\tools\tool bluedragon.ExtrairTextoTabelaSemTratarRepeticao "..\arquivos-originais-es" "..\arquivos-originais-us" "..\arquivos-traduzidos" "0,2" "ItWd"
-pause
+java -cp ..\tools\tool bluedragon.ExtrairTextoTabelaSemTratarRepeticao "..\arquivos-originais-es" "..\arquivos-originais-us" "..\arquivos-traduzidos" "extraido_revisao08.txt" "2" "ItWd" --extrairSomenteTextoTraduzido
