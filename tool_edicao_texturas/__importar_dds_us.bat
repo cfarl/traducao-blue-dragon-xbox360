@@ -32,3 +32,9 @@ java -cp ..\tools\tool bluedragon.texturas.Importar    original-us\rst_lvup_us.d
 java -cp ..\tools\tool bluedragon.texturas.Importar    original-us\tai_plate_us.dds _extraido_tai_plate_us.dds
 
 
+
+
+del novas\* /Q
+rmdir novas
+mkdir novas
+move _novo* novas
