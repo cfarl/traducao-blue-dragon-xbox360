@@ -7,3 +7,5 @@ A pasta arquivos-originais contém os arquivos originais
 A pasta arquivos-traduzidos contém os arquivos traduzidos
 
 Cutscenes do jogo: https://www.youtube.com/watch?v=YYyxfNOMFB8
+
+Cutscenes por partes: https://www.youtube.com/watch?v=Dip0gtN6lds
